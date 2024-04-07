@@ -105,12 +105,8 @@ xmlns:o="urn:schemas-microsoft-com:office:office">
                                         <tr>
                                           <td align="center" style="font-size:0px;padding:10px 25px;word-break:break-word;">
                                             <div style="font-family:Roboto, Helvetica, Arial;font-size:13px;line-height:20px;text-align:center;color:#6e6e6e;">
-                                              <a target="_blank" href="#"
-                                              style="color:#6e6e6e">Visit RV Spotminder</a>I
-                                              <a target="_blank" href="https://rvspotminder.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=reports&utm_id=weeklyreport"
-                                              style="color: #6e6e6e">About us</a>I
-                                              <a target="_blank" href="#"
-                                              style="color: #6e6e6e">Your account</a>
+                                              <a target="_blank" href="https://rvspotminder.com/dashboard"
+                                              style="color:#6e6e6e">Your Dashboard</a>
                                             </div>
                                           </td>
                                         </tr>
