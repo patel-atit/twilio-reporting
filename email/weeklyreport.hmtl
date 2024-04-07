@@ -210,14 +210,14 @@ xmlns:o="urn:schemas-microsoft-com:office:office">
                                         <tr>
                                           <td align="center" style="font-size:0px;padding:0px 25px;word-break:break-word;">
                                             <div style="font-family:Roboto, Helvetica, Arial;font-size:13px;line-height:40px;text-align:center;color:#555555;">
-                                              <h1>-business name-</h1>
+                                              <h1>{{businessName}}</h1>
                                               <h1 style="font-size: 24px">Weekly Caller Engagement Report</h1>
                                             </div>
                                           </td>
                                         </tr>
                                         <tr>
                                           <td align="center" style="font-size:0px;padding:10px 25px;word-break:break-word;">
-                                            <div style="font-family:Roboto, Helvetica, Arial;font-size:14px;font-weight:bold;line-height:24px;text-align:center;color:#888888;">-report start_end date-</div>
+                                            <div style="font-family:Roboto, Helvetica, Arial;font-size:14px;font-weight:bold;line-height:24px;text-align:center;color:#888888;">{{report_start_end_date}}</div>
                                           </td>
                                         </tr>
                                       </table>
@@ -282,7 +282,7 @@ xmlns:o="urn:schemas-microsoft-com:office:office">
                                                               </div>
                                                               <tr>
                                                                 <td align="center" style="background:#F2F2F2;font-size:0px;padding:5px;word-break:break-word;">
-                                                                  <div style="font-family:Roboto, Helvetica, Arial;font-size:32px;font-weight:bold;line-height:40px;text-align:center;color:#555555;">-callers engaged-</div>
+                                                                  <div style="font-family:Roboto, Helvetica, Arial;font-size:32px;font-weight:bold;line-height:40px;text-align:center;color:#555555;">{{callers_engaged}}</div>
                                                                 </td>
                                                               </tr>
                                                               <tr>
@@ -315,7 +315,7 @@ xmlns:o="urn:schemas-microsoft-com:office:office">
                                                               </div>
                                                               <tr>
                                                                 <td align="center" style="background:#F2F2F2;font-size:0px;padding:5px;word-break:break-word;">
-                                                                  <div style="font-family:Roboto, Helvetica, Arial;font-size:32px;font-weight:bold;line-height:40px;text-align:center;color:#555555;">-new reservations-</div>
+                                                                  <div style="font-family:Roboto, Helvetica, Arial;font-size:32px;font-weight:bold;line-height:40px;text-align:center;color:#555555;">{{new_reservations}}</div>
                                                                 </td>
                                                               </tr>
                                                               <tr>
@@ -378,7 +378,7 @@ xmlns:o="urn:schemas-microsoft-com:office:office">
                                                               </div>
                                                               <tr>
                                                                 <td align="center" style="background:#F2F2F2;font-size:0px;padding:5px;word-break:break-word;">
-                                                                  <div style="font-family:Roboto, Helvetica, Arial;font-size:32px;font-weight:bold;line-height:40px;text-align:center;color:#555555;">-modify_cancel-</div>
+                                                                  <div style="font-family:Roboto, Helvetica, Arial;font-size:32px;font-weight:bold;line-height:40px;text-align:center;color:#555555;">{{modify_cancel}}</div>
                                                                 </td>
                                                               </tr>
                                                               <tr>
@@ -410,7 +410,7 @@ xmlns:o="urn:schemas-microsoft-com:office:office">
                                                               </div>
                                                               <tr>
                                                                 <td align="center" style="background:#F2F2F2;font-size:0px;padding:5px;word-break:break-word;">
-                                                                  <div style="font-family:Roboto, Helvetica, Arial;font-size:32px;font-weight:bold;line-height:40px;text-align:center;color:#555555;">-voicemail-</div>
+                                                                  <div style="font-family:Roboto, Helvetica, Arial;font-size:32px;font-weight:bold;line-height:40px;text-align:center;color:#555555;">{{voicemail}}</div>
                                                                 </td>
                                                               </tr>
                                                               <tr>
@@ -840,7 +840,7 @@ xmlns:o="urn:schemas-microsoft-com:office:office">
                                         <tr>
                                           <td align="center" style="font-size:0px;padding:0px;word-break:break-word;">
                                             <div style="font-family:Roboto;font-size:12px;line-height:16px;text-align:center;color:#888888;">
-                                              <p>Designed by RV Spotminder</p><span>© -current year-</span> 
+                                              <p>Designed by RV Spotminder</p><span>© {{current_year}}</span> 
                                               <a target="_blank" style="color:#888888"
                                               href="https://rvspotminder.com?utm_source=weeklyemail&utm_medium=email&utm_campaign=reports&utm_id=weeklyreport">RV Spotminder</a>
                                                 <p></p>
@@ -861,7 +861,7 @@ xmlns:o="urn:schemas-microsoft-com:office:office">
                                                         <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#3b5998;border-radius:3px;width:30px;">
                                                           <tr>
                                                             <td style="font-size:0;height:30px;vertical-align:middle;width:30px;">
-                                                              <a href="http://i8sn.mjt.lu/lnk/CAAAAMnYjD4AAAAAAAAAAQnKdWcAARph5wsAAAAAAAicvQBesKjxIezA4-Z7Si6Dnakm9IILIQAG4VU/9/LjbQs-2paErGJRZ-uD5I9A/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL3NoYXJlci9zaGFyZXIucGhwP3U9aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL21haWxqZXQ"
+                                                              <a href="http://facebook.com/rvspotminder"
                                                               target="_blank">
                                                                 <img height="30" src="http://cdn.mcauto-images-production.sendgrid.net/a6951270abcefc5a/358fe1b1-927a-4d61-b252-c06a9fc2857d/80x91.png"
                                                                 style="border-radius:3px;display:block;" width="30">
@@ -905,7 +905,7 @@ xmlns:o="urn:schemas-microsoft-com:office:office">
                                                         <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#0077b5;border-radius:3px;width:30px;">
                                                           <tr>
                                                             <td style="font-size:0;height:30px;vertical-align:middle;width:30px;">
-                                                              <a href="http://i8sn.mjt.lu/lnk/CAAAAMnYjD4AAAAAAAAAAQnKdWcAARph5wsAAAAAAAicvQBesKjxIezA4-Z7Si6Dnakm9IILIQAG4VU/11/U92uC1DChg68FgFbx1Wr1Q/aHR0cHM6Ly93d3cubGlua2VkaW4uY29tL3NoYXJlQXJ0aWNsZT9taW5pPXRydWUmdXJsPWh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbS9jb21wYW55L21haWxqZXQmdGl0bGU9JnN1bW1hcnk9JnNvdXJjZT0"
+                                                              <a href="https://www.tiktok.com/@rvspotminder"
                                                               target="_blank">
                                                                 <img height="30" src="http://cdn.mcauto-images-production.sendgrid.net/a6951270abcefc5a/36a01192-0ce1-49f8-8f17-6ff1ebaca8f0/80x91.png"
                                                                 style="border-radius:3px;display:block;" width="30">
@@ -927,7 +927,7 @@ xmlns:o="urn:schemas-microsoft-com:office:office">
                                                         <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#EB3323;border-radius:3px;width:30px;">
                                                           <tr>
                                                             <td style="font-size:0;height:30px;vertical-align:middle;width:30px;">
-                                                              <a href="http://i8sn.mjt.lu/lnk/CAAAAMnYjD4AAAAAAAAAAQnKdWcAARph5wsAAAAAAAicvQBesKjxIezA4-Z7Si6Dnakm9IILIQAG4VU/12/ZG81A0UPpWQGcyrO9P4-Cw/aHR0cHM6Ly93d3cueW91dHViZS5jb20vY2hhbm5lbC9VQzlRRXB0SmFrYW9JMDItTmRfeUFPVXc"
+                                                              <a href="www.youtube.com/@RVSpotMinder"
                                                               target="_blank">
                                                                 <img height="30" src="http://cdn.mcauto-images-production.sendgrid.net/a6951270abcefc5a/5e429209-c2bb-40c0-beb2-f75b991c91d4/80x91.png"
                                                                 style="border-radius:3px;display:block;" width="30">
@@ -949,7 +949,7 @@ xmlns:o="urn:schemas-microsoft-com:office:office">
                                                         <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#3f729b;border-radius:3px;width:30px;">
                                                           <tr>
                                                             <td style="font-size:0;height:30px;vertical-align:middle;width:30px;">
-                                                              <a href="http://i8sn.mjt.lu/lnk/CAAAAMnYjD4AAAAAAAAAAQnKdWcAARph5wsAAAAAAAicvQBesKjxIezA4-Z7Si6Dnakm9IILIQAG4VU/13/4nzYE5reGdZp6xsKUatsrA/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9tYWlsamV0Lw"
+                                                              <a href="https://www.instagram.com/iamrvspotminder/"
                                                               target="_blank">
                                                                 <img height="30" src="http://cdn.mcauto-images-production.sendgrid.net/a6951270abcefc5a/1cd83b12-56e3-4cdb-998c-a312f25725c4/80x91.png"
                                                                 style="border-radius:3px;display:block;" width="30">
@@ -994,3 +994,4 @@ xmlns:o="urn:schemas-microsoft-com:office:office">
     </body>
 
 </html>
+
