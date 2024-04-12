@@ -14,8 +14,8 @@ twilio_numbers_array = [num.phone_number for num in client.incoming_phone_number
 twilio_numbers_set = set(twilio_numbers_array)
 
 # Define the date range for March
-start_date = "2024-03-01"
-end_date = "2024-03-31"  # Cover the whole of March
+start_date = "2024-04-03"
+end_date = "2024-04-10"  # Cover the whole of March
 
 # Initialize the structure to hold expenses grouped by date and phone number
 expenses_by_date = {}

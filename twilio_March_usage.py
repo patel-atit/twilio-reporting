@@ -7,8 +7,8 @@ auth_token = os.environ.get('TWILIO_AUTH_TOKEN')
 client = Client(account_sid, auth_token)
 
 # Set the date range for March 2024
-start_date_str = '2024-03-01'
-end_date_str = '2024-03-31'
+start_date_str = '2024-04-03'
+end_date_str = '2024-04-10'
 
 # List of unique categories to query, duplicates removed
 categories = list(set([
