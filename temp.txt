@@ -1,0 +1,2115 @@
+d<html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" dir="ltr">
+  <head>
+    <title>What’s new: January 2024</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style type="text/css">
+      #outlook a {
+        padding: 0;
+      }
+      .ReadMsgBody {
+        width: 100%;
+      }
+      .ExternalClass {
+        width: 100%;
+      }
+      .ExternalClass * {
+        line-height: 100%;
+      }
+      body {
+        margin: 0;
+        padding: 0;
+        -webkit-text-size-adjust: 100%;
+        -ms-text-size-adjust: 100%;
+      }
+      table,
+      td {
+        border-collapse: collapse;
+        mso-table-lspace: 0pt;
+        mso-table-rspace: 0pt;
+      }
+      img {
+        border: 0;
+        height: auto;
+        line-height: 100%;
+        outline: none;
+        text-decoration: none;
+        -ms-interpolation-mode: bicubic;
+      }
+      p {
+        display: block;
+        margin: 13px 0;
+      }
+    </style>
+
+    <!--[if mso]>
+<xml>
+<o:OfficeDocumentSettings>
+<o:AllowPNG/>
+<o:PixelsPerInch>96</o:PixelsPerInch>
+</o:OfficeDocumentSettings>
+</xml>
+<![endif]-->
+
+    <!--[if lte mso 11]>
+<style type="text/css">
+.outlook-group-fix{width:100% !important;}
+</style>
+<![endif]-->
+    <style type="text/css">
+      @media only screen and (max-width: 480px) {
+        .dys-desktop {
+          display: none !important;
+        }
+        div.dys-mobile {
+          display: block !important;
+        }
+        tr.dys-mobile {
+          display: table-row !important;
+        }
+      }
+    </style>
+    <style type="text/css">
+      @media only screen and (max-width:480px) {
+        table.full-width-mobile {
+          width: 100% !important;
+        }
+        td.full-width-mobile {
+          width: auto !important;
+        }
+      }
+      u+#body a {
+        color: #101010;
+        text-decoration: underline;
+        font-size: inherit;
+        font-family: inherit;
+        font-weight: inherit;
+        line-height: inherit;
+      }
+      a {
+        color: #101010;
+        text-decoration: underline;
+      }
+      .event-list-padding>div {
+        padding-bottom: 10px;
+      }
+      @media only screen and (max-width: 440px) {
+        td.mobile-img-4-3 {
+          padding: 30px !important;
+        }
+        td.mobile-column-4-3 {
+          padding: 10px 30px 10px 30px !important;
+        }
+        td.mobile-txt-padding {
+          padding-right: 30px !important;
+        }
+        td.mobile-padding-30 {
+          padding-left: 50px !important;
+        }
+        .mobile-padding-30 {
+          padding-left: 50px !important;
+        }
+        td.mobile-banner-btn>table>tbody>tr>td>p {
+          float: center;
+        }
+      }
+      td.button-shadow>table>tbody>tr>td {
+        filter: drop-shadow(2px 2px 0px #101010);
+      }
+      @media only screen and (min-width: 440px) {
+        td.lead-in-padding {
+          padding-right: 135px !important;
+        }
+        td.mobile-banner-btn {
+          float: right !important;
+        }
+      }
+      .row-border>table>tbody>tr>td {
+        border-left: 1px solid #101010;
+        border-right: 1px solid #101010;
+      }
+      .row-border>table {
+        border-collapse: separate;
+      }
+      .bradius>table {
+        border-collapse: separate;
+      }
+      .bradius>table>tbody>tr>td {
+        border-radius: 8px 8px 0px 0px;
+        border: 1px solid #101010;
+        border-bottom: 0px;
+      }
+      @media only screen and (max-width:440px) {
+        .tp-pd-mb {
+          padding-top: 10px !important;
+        }
+      }
+      u+#body .gmail-blend-screen {
+        background: #101010;
+        mix-blend-mode: screen;
+      }
+      u+#body .gmail-blend-difference {
+        background: #101010;
+        mix-blend-mode: difference;
+      }
+      .address>a {
+        color: #fffeef !important
+      }
+      .linear {
+        background: #101010;
+        background-image: linear-gradient(#101010, #101010);
+        color: #fff;
+      }
+      @media only screen and (max-width: 440px) {
+        .mobile-hide {
+          display: none;
+        }
+        .mobile-wider {
+          width: 66% !important;
+        }
+      }
+      .bradius-bottom>table {
+        border-collapse: separate;
+      }
+      .bradius-bottom>table>tbody>tr>td {
+        border-radius: 0px 0px 8px 8px;
+        border: 1px solid #101010;
+        border-bottom: 0px;
+      }
+    </style>
+    <style type="text/css">
+      @media only screen and (min-width:480px) {
+        .dys-column-per-100 {
+          width: 100.000000% !important;
+          max-width: 100.000000%;
+        }
+        .dys-column-per-25 {
+          width: 25% !important;
+          max-width: 25%;
+        }
+        .dys-column-per-33 {
+          width: 33.333333% !important;
+          max-width: 33.333333%;
+        }
+        .dys-column-per-50 {
+          width: 50.000000% !important;
+          max-width: 50.000000%;
+        }
+        .dys-column-per-75 {
+          width: 75% !important;
+          max-width: 75%;
+        }
+      }
+    </style>
+  </head>
+  <body id="body" style="background-color: #FFFFFF;">
+    <div style="display:none !important;visibility:hidden;mso-hide:all;font-size:1px;color:#ffffff;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;">Making knowledge sharing seamless.</div>
+    <div style="display:none !important;visibility:hidden;mso-hide:all;font-size:1px;color:#ffffff;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;">͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ ͏ ‌     ﻿ </div>
+    <span style="width:0;opacity:0;max-height:0;mso-hide:all;overflow:hidden;float:left;display:none !important;">Making knowledge sharing seamless. </span><span style="display: none; max-height: 0px; overflow: hidden;"> ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏ 
+ ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏ 
+ ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏ 
+ ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏ 
+ ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏ 
+ ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏ 
+ ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏ 
+ ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏ 
+ ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏ 
+ ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏  ͏ 
+ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ 
+­ ­ ­ ­ ­ ­ ­ ­ ­ ­ 
+­ ­ ­ ­ ­ ­ ­ ­ ­ ­ 
+­ ­ ­ ­ ­ ­ ­ ­ ­ ­ 
+­ ­ ­ ­ ­ ­ ­ ­ ­ ­ 
+­ ­ ­ ­ ­ ­ ­ ­ ­ ­ 
+­ ­ ­ ­ ­ ­ ­ ­ ­ ­ 
+­ ­ ­ ­ ­ ­ ­ ­ ­ ­ 
+­ ­ ­ ­ ­ ­ ­ ­ ­ ­ 
+­ ­ ­ ­ ­ ­ ­ ­ ­ ­ 
+ &nbsp;</span>
+    <div style="background-color: #FFFFFF;">
+
+      <!--[if mso | IE]>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="bradius-outlook" style="width:640px;" width="640"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;">
+<![endif]-->
+      <div class="bradius" style="background-color:#F6A237;border-radius:9px 9px 0px 0px;margin:0px auto;max-width:640px;">
+        <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#F6A237;border-radius:9px 9px 0px 0px;width:100%;">
+          <tbody>
+            <tr>
+              <td style="direction:ltr;font-size:0px;padding:0;text-align:center;vertical-align:top;">
+
+                <!--[if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td style="vertical-align:top;width:640px;">
+<![endif]-->
+                <div class="dys-column-per-100 outlook-group-fix" style="direction:ltr;display:inline-block;font-size:13px;text-align:left;vertical-align:top;width:100%;">
+                  <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;" width="100%">
+                    <tr>
+                      <td align="left" style="font-size:0px;padding:26px 19px 32px 19px;word-break:break-word;">
+                        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:collapse;border-spacing:0px;">
+                          <tbody>
+                            <tr>
+                              <td style="width:65px;"><a href="https://build-links.coda.io/f/a/13N0viVRHMUhJ0HTyhgTrg~~/AAQRxQA~/RgRnlOGcP0SUaHR0cHM6Ly93d3cuY29kYS5pbz9saWQ9cnl5d2V5cWJwN3RjJmNhbnZhc19pZD0mdXRtX3NvdXJjZT1CcmF6ZSZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1bRW1haWxdIDAxLTI1LTIwMjQgfCBXaGF0J3MgTmV3IEphbiAyMDI0JnV0bV9jb250ZW50PVcDc3BjQgplsZxcsmUbWBmwUhhtYXR0aGV3QGJ1bnNlbnN0dWRpby5jb21YBAAAAkw~" style="color:#101010;text-decoration:underline;" target="_blank"><span style="color:#101010;text-decoration:underline;"><img height="auto" src="https://cdn-web-assets.dyspatch.io/org_01gceye3h3mdhpetdrq2ygrd69/0VgcNGsCTHeiqasFHQtI_Coda_Logotype-Black%402x.png" style="border:none;display:block;font-size:13px;height:auto;outline:none;text-decoration:none;width:100%;" width="65"></span></a></td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </td>
+                    </tr>
+                  </table>
+                </div>
+
+                <!--[if mso | IE]>
+</td></tr></table>
+<![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <!--[if mso | IE]>
+</td></tr></table>
+<![endif]-->
+
+      <!--[if mso | IE]>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="row-border-outlook" style="width:640px;" width="640"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;">
+<![endif]-->
+      <div class="row-border" style="background-color:#FDDCB0;margin:0px auto;max-width:640px;">
+        <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#FDDCB0;width:100%;">
+          <tbody>
+            <tr>
+              <td style="direction:ltr;font-size:0px;padding:0;text-align:center;vertical-align:top;">
+
+                <!--[if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td style="vertical-align:top;width:640px;">
+<![endif]-->
+                <div class="dys-column-per-100 outlook-group-fix" style="direction:ltr;display:inline-block;font-size:13px;text-align:left;vertical-align:top;width:100%;">
+                  <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;" width="100%">
+                    <tr>
+                      <td align="center" style="font-size:0px;padding:0;word-break:break-word;">
+                        <p style="border-top-color:#101010;border-top-style:solid;border-top-width:1px;font-size:1px;margin:0px auto;width:100%;"></p>
+
+                        <!--[if mso | IE]><table align='center' border='0' cellpadding='0' cellspacing='0' role='presentation' style='border-top-color:#101010;border-top-style:solid;border-top-width:1px;font-size:1px;margin:0px auto;width:640px;' width='640px'><tr><td style='height:0;line-height:0;'>&nbsp</td></tr></table><![endif]-->
+                      </td>
+                    </tr>
+                  </table>
+                </div>
+
+                <!--[if mso | IE]>
+</td></tr></table>
+<![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <!--[if mso | IE]>
+</td></tr></table>
+<![endif]-->
+
+      <!--[if mso | IE]>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="row-border-outlook" style="width:640px;" width="640"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;">
+<![endif]-->
+      <div class="row-border" style="background-color:#FFFFFF;margin:0px auto;max-width:640px;">
+        <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#FFFFFF;width:100%;">
+          <tbody>
+            <tr>
+              <td style="direction:ltr;font-size:0px;padding:20px 0;padding-bottom:0;padding-top:0;text-align:center;vertical-align:top;">
+
+                <!--[if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td style="vertical-align:top;width:640px;">
+<![endif]-->
+                <div class="dys-column-per-100 outlook-group-fix" style="direction:ltr;display:inline-block;font-size:13px;text-align:left;vertical-align:top;width:100%;">
+                  <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;" width="100%">
+                    <tr>
+                      <td align="center" style="font-size:0px;padding:0;word-break:break-word;">
+                        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:collapse;border-spacing:0px;">
+                          <tbody>
+                            <tr>
+                              <td style="width:640px;"><img alt="" height="auto" src="https://cdn-web-assets.dyspatch.io/org_01gceye3h3mdhpetdrq2ygrd69/Gi9WrGJhSMizMgYoirwj_Whatsnewheader.png" style="border:none;display:block;font-size:13px;height:auto;outline:none;text-decoration:none;width:100%;" width="640"></td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </td>
+                    </tr>
+                  </table>
+                </div>
+
+                <!--[if mso | IE]>
+</td></tr></table>
+<![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <!--[if mso | IE]>
+</td></tr></table>
+<![endif]-->
+
+      <!--[if mso | IE]>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="row-border-outlook" style="width:640px;" width="640"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;">
+<![endif]-->
+      <div class="row-border" style="background-color:#FFFFFF;margin:0px auto;max-width:640px;">
+        <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#FFFFFF;width:100%;">
+          <tbody>
+            <tr>
+              <td style="direction:ltr;font-size:0px;padding:0;text-align:center;vertical-align:top;">
+
+                <!--[if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td style="vertical-align:top;width:640px;">
+<![endif]-->
+                <div class="dys-column-per-100 outlook-group-fix" style="direction:ltr;display:inline-block;font-size:13px;text-align:left;vertical-align:top;width:100%;">
+                  <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;" width="100%">
+                    <tr>
+                      <td align="center" style="font-size:0px;padding:0;padding-top:0px;word-break:break-word;">
+                        <p style="border-top-color:#101010;border-top-style:solid;border-top-width:1px;font-size:1px;margin:0px auto;width:100%;"></p>
+
+                        <!--[if mso | IE]><table align='center' border='0' cellpadding='0' cellspacing='0' role='presentation' style='border-top-color:#101010;border-top-style:solid;border-top-width:1px;font-size:1px;margin:0px auto;width:640px;' width='640px'><tr><td style='height:0;line-height:0;'>&nbsp</td></tr></table><![endif]-->
+                      </td>
+                    </tr>
+                  </table>
+                </div>
+
+                <!--[if mso | IE]>
+</td></tr></table>
+<![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <!--[if mso | IE]>
+</td></tr></table>
+<![endif]-->
+
+      <!--[if mso | IE]>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="row-border-outlook" style="width:640px;" width="640"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;">
+<![endif]-->
+      <div class="row-border" style="background-color:#FFFFFF;margin:0px auto;max-width:640px;">
+        <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#FFFFFF;width:100%;">
+          <tbody>
+            <tr>
+              <td style="direction:ltr;font-size:0px;padding:0;text-align:center;vertical-align:top;">
+
+                <!--[if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td style="vertical-align:top;width:640px;">
+<![endif]-->
+                <div class="dys-column-per-100 outlook-group-fix" style="direction:ltr;display:inline-block;font-size:13px;text-align:left;vertical-align:top;width:100%;">
+                  <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;" width="100%">
+                    <tr>
+                      <td align="left" style="font-size:0px;padding:10px 30px;padding-bottom:0;padding-top:24px;word-break:break-word;">
+                        <h2 style="color:#101010;font-family:Helvetica, Arial, sans-serif;font-size:24px;font-weight:700;letter-spacing:-.02em;line-height:31px;margin:0;padding:0;text-align:left;">What's new</h2>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left" style="font-size:0px;padding:10px 30px;padding-top:0;word-break:break-word;">
+                        <div style="color:#101010;font-family:Helvetica, Arial, sans-serif;font-size:18px;font-weight:300;letter-spacing:-0.01em;line-height:27px;text-align:left;">
+                          <p style="margin-top:0;margin-bottom:0;">January 2024</p>
+                        </div>
+                      </td>
+                    </tr>
+                  </table>
+                </div>
+
+                <!--[if mso | IE]>
+</td></tr></table>
+<![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <!--[if mso | IE]>
+</td></tr></table>
+<![endif]-->
+
+      <!--[if mso | IE]>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="row-border-outlook" style="width:640px;" width="640"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;">
+<![endif]-->
+      <div class="row-border" style="background-color:#FFFFFF;margin:0px auto;max-width:640px;">
+        <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#FFFFFF;width:100%;">
+          <tbody>
+            <tr>
+              <td style="direction:ltr;font-size:0px;padding:20px 0;padding-bottom:30px;padding-left:0px;padding-right:0px;padding-top:10px;text-align:center;vertical-align:top;">
+
+                <!--[if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td style="vertical-align:top;width:640px;">
+<![endif]-->
+                <div class="dys-column-per-100 outlook-group-fix" style="direction:ltr;display:inline-block;font-size:13px;text-align:left;vertical-align:top;width:100%;">
+                  <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;" width="100%">
+                    <tr>
+                      <td align="left" style="font-size:0px;padding:0 34px 0 30px;word-break:break-word;">
+                        <div style="color:#101010;font-family:Helvetica, Arial, sans-serif;font-size:18px;font-weight:300;letter-spacing:-0.01em;line-height:27px;text-align:left;">
+                          <p style="margin-top:0;margin-bottom:0;">Over the past quarter, we’ve made tons of updates that enable more efficient knowledge sharing—from syncing context across docs and tools, to more flexible sharing settings, to AI-powered suggestions to improve your writing. Read on to discover all the shiny new things you can try!</p>
+                        </div>
+                      </td>
+                    </tr>
+                  </table>
+                </div>
+
+                <!--[if mso | IE]>
+</td></tr></table>
+<![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <!--[if mso | IE]>
+</td></tr></table>
+<![endif]-->
+
+      <!--[if mso | IE]>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="row-border-outlook" style="width:640px;" width="640"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;">
+<![endif]-->
+      <div class="row-border" style="background-color:#FDDCB0;margin:0px auto;max-width:640px;">
+        <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#FDDCB0;width:100%;">
+          <tbody>
+            <tr>
+              <td style="direction:ltr;font-size:0px;padding:0;text-align:center;vertical-align:top;">
+
+                <!--[if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td style="vertical-align:top;width:640px;">
+<![endif]-->
+                <div class="dys-column-per-100 outlook-group-fix" style="direction:ltr;display:inline-block;font-size:13px;text-align:left;vertical-align:top;width:100%;">
+                  <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;" width="100%">
+                    <tr>
+                      <td align="center" style="font-size:0px;padding:0;padding-top:0px;word-break:break-word;">
+                        <p style="border-top-color:#101010;border-top-style:solid;border-top-width:1px;font-size:1px;margin:0px auto;width:100%;"></p>
+
+                        <!--[if mso | IE]><table align='center' border='0' cellpadding='0' cellspacing='0' role='presentation' style='border-top-color:#101010;border-top-style:solid;border-top-width:1px;font-size:1px;margin:0px auto;width:640px;' width='640px'><tr><td style='height:0;line-height:0;'>&nbsp</td></tr></table><![endif]-->
+                      </td>
+                    </tr>
+                  </table>
+                </div>
+
+                <!--[if mso | IE]>
+</td></tr></table>
+<![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <!--[if mso | IE]>
+</td></tr></table>
+<![endif]-->
+
+      <!--[if mso | IE]>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="row-border-outlook" style="width:640px;" width="640"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;">
+<![endif]-->
+      <div class="row-border" style="background-color:#FDF3D8;margin:0px auto;max-width:640px;">
+        <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#FDF3D8;width:100%;">
+          <tbody>
+            <tr>
+              <td style="direction:rtl;font-size:0px;padding:20px 0;padding-bottom:0px;padding-left:0px;padding-right:0px;padding-top:20px;text-align:center;vertical-align:top;">
+
+                <!--[if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td style="vertical-align:middle;width:320px;">
+<![endif]-->
+                <div class="dys-column-per-50 outlook-group-fix" style="direction:ltr;display:inline-block;font-size:13px;text-align:left;vertical-align:middle;width:100%;">
+                  <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+                    <tbody>
+                      <tr>
+                        <td style="padding-left:0;padding-right:0;vertical-align:middle;">
+                          <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="" width="100%">
+                            <tr>
+                              <td align="center" class="mobile-img-4-3" style="font-size:0px;padding:10px 30px;padding-left:0;padding-right:30px;word-break:break-word;">
+                                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:collapse;border-spacing:0px;">
+                                  <tbody>
+                                    <tr>
+                                      <td style="width:270px;"><img height="auto" src="https://cdn-web-assets.dyspatch.io/org_01gceye3h3mdhpetdrq2ygrd69/Nv6PulHhSNSNsg4Rw60p_01-Enforced%20Dependencies.gif" style="border:none;display:block;font-size:13px;height:auto;outline:none;text-decoration:none;width:100%;" width="270"></td>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                              </td>
+                            </tr>
+                          </table>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+
+                <!--[if mso | IE]>
+</td><td style="vertical-align:middle;width:320px;">
+<![endif]-->
+                <div class="dys-column-per-50 outlook-group-fix" style="direction:ltr;display:inline-block;font-size:13px;text-align:left;vertical-align:middle;width:100%;">
+                  <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+                    <tbody>
+                      <tr>
+                        <td style="padding-right:0;vertical-align:middle;">
+                          <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="" width="100%">
+                            <tr>
+                              <td align="left" style="font-size:0px;padding:10px 30px;word-break:break-word;">
+                                <div style="color:#101010;font-family:Helvetica, Arial, sans-serif;font-size:24px;font-weight:700;letter-spacing:-0.01em;line-height:31px;text-align:left;">
+                                  <p style="margin-top:0;margin-bottom:0;">Sharing is caring.</p>
+                                </div>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td align="left" class="mobile-txt-padding" style="font-size:0px;padding:10px 30px;padding-right:0;word-break:break-word;">
+                                <div style="color:#101010;font-family:Helvetica, Arial, sans-serif;font-size:18px;font-weight:300;letter-spacing:-0.01em;line-height:27px;text-align:left;">
+                                  <p style="margin-top:0;margin-bottom:0;">If you use Google Groups, you can <a href="https://build-links.coda.io/f/a/rxAp-02f9R30WwbHIX-pnA~~/AAQRxQA~/RgRnlOGcP0TKaHR0cHM6Ly9oZWxwLmNvZGEuaW8vZW4vYXJ0aWNsZXMvNzk4ODE4MC1pbnZpdGUtZ29vZ2xlLWdyb3Vwcy10by15b3VyLWRvYz9saWQ9bTl1d3B3Y3NvZGlnJmNhbnZhc19pZD0mdXRtX3NvdXJjZT1CcmF6ZSZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1bRW1haWxdIDAxLTI1LTIwMjQgfCBXaGF0J3MgTmV3IEphbiAyMDI0JnV0bV9jb250ZW50PVcDc3BjQgplsZxcsmUbWBmwUhhtYXR0aGV3QGJ1bnNlbnN0dWRpby5jb21YBAAAAkw~">share a doc with a specific group</a> by inviting the email alias from your doc share settings. You can also share with <a href="https://build-links.coda.io/f/a/9FUB3tNAxfZUQ4SF-6j-gg~~/AAQRxQA~/RgRnlOGcP0ThaHR0cHM6Ly9jb21tdW5pdHkuY29kYS5pby90L2xhdW5jaGVkLW5ldy13YXktdG8tc2hhcmUtZG9jcy13aXRoLWV2ZXJ5b25lLWluLXlvdXItd29ya3NwYWNlLzQ1MTEwP2xpZD1nbmF6aWQ5eDk0M3kmY2FudmFzX2lkPSZ1dG1fc291cmNlPUJyYXplJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPVtFbWFpbF0gMDEtMjUtMjAyNCB8IFdoYXQncyBOZXcgSmFuIDIwMjQmdXRtX2NvbnRlbnQ9VwNzcGNCCmWxnFyyZRtYGbBSGG1hdHRoZXdAYnVuc2Vuc3R1ZGlvLmNvbVgEAAACTA~~">everyone in your Coda workspace</a>, rather than one by one or based on email domain.</p>
+                                </div>
+                              </td>
+                            </tr>
+                          </table>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+
+                <!--[if mso | IE]>
+</td></tr></table>
+<![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <!--[if mso | IE]>
+</td></tr></table>
+<![endif]-->
+
+      <!--[if mso | IE]>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="row-border-outlook" style="width:640px;" width="640"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;">
+<![endif]-->
+      <div class="row-border" style="background-color:#FDF3D8;margin:0px auto;max-width:640px;">
+        <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#FDF3D8;width:100%;">
+          <tbody>
+            <tr>
+              <td style="direction:ltr;font-size:0px;padding:20px 0;padding-bottom:30px;padding-left:0px;padding-right:0px;padding-top:0px;text-align:center;vertical-align:top;">
+
+                <!--[if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td style="vertical-align:top;width:640px;">
+<![endif]-->
+                <div class="dys-column-per-100 outlook-group-fix" style="direction:ltr;display:inline-block;font-size:13px;text-align:left;vertical-align:top;width:100%;">
+                  <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;" width="100%">
+                    <tr>
+                      <td align="left" style="font-size:0px;padding:0 34px 0 30px;word-break:break-word;">
+                        <div style="color:#101010;font-family:Helvetica, Arial, sans-serif;font-size:18px;font-weight:300;letter-spacing:-0.01em;line-height:27px;text-align:left;">
+                          <p style="margin-top:0;margin-bottom:0;">This is particularly useful if you have workspace members from multiple domains. As always, you can choose what level of access these groups have—view, comment, or edit.</p>
+                        </div>
+                      </td>
+                    </tr>
+                  </table>
+                </div>
+
+                <!--[if mso | IE]>
+</td></tr></table>
+<![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <!--[if mso | IE]>
+</td></tr></table>
+<![endif]-->
+
+      <!--[if mso | IE]>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="row-border-outlook" style="width:640px;" width="640"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;">
+<![endif]-->
+      <div class="row-border" style="background-color:#FFFFFF;margin:0px auto;max-width:640px;">
+        <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#FFFFFF;width:100%;">
+          <tbody>
+            <tr>
+              <td style="direction:ltr;font-size:0px;padding:20px 0;padding-bottom:20px;padding-left:0px;padding-right:0px;padding-top:20px;text-align:center;vertical-align:top;">
+
+                <!--[if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td style="vertical-align:middle;width:320px;">
+<![endif]-->
+                <div class="dys-column-per-50 outlook-group-fix" style="direction:ltr;display:inline-block;font-size:13px;text-align:left;vertical-align:middle;width:100%;">
+                  <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:middle;" width="100%">
+                    <tr>
+                      <td align="center" class="mobile-img-4-3" style="font-size:0px;padding:30px 5px 30px 30px;word-break:break-word;">
+                        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:collapse;border-spacing:0px;">
+                          <tbody>
+                            <tr>
+                              <td style="width:270px;"><img height="auto" src="https://cdn-web-assets.dyspatch.io/org_01gceye3h3mdhpetdrq2ygrd69/ZfnbTAcmQFirtjabm9HQ_02-Share%20Google%20Group.gif" style="border:none;display:block;font-size:13px;height:auto;outline:none;text-decoration:none;width:100%;" width="270"></td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </td>
+                    </tr>
+                  </table>
+                </div>
+
+                <!--[if mso | IE]>
+</td><td style="vertical-align:middle;width:320px;">
+<![endif]-->
+                <div class="dys-column-per-50 outlook-group-fix" style="direction:ltr;display:inline-block;font-size:13px;text-align:left;vertical-align:middle;width:100%;">
+                  <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:middle;" width="100%">
+                    <tr>
+                      <td align="left" style="font-size:0px;padding:10px 30px;word-break:break-word;">
+                        <h4 style="color:#101010;font-family:Helvetica, Arial, sans-serif;font-size:24px;font-weight:700;letter-spacing:-.02em;line-height:31px;margin:0;padding:0;text-align:left;">"It depends!"</h4>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left" style="font-size:0px;padding:10px 30px;padding-top:0;word-break:break-word;">
+                        <div style="color:#101010;font-family:Helvetica, Arial, sans-serif;font-size:18px;font-weight:300;letter-spacing:-0.01em;line-height:27px;text-align:left;">
+                          <p style="margin-top:0;margin-bottom:0;">When you’re managing a large project, nothing is more tedious than updating your tracker line by line every time a dependency delivery date changes. Our new<strong> </strong><a href="https://build-links.coda.io/f/a/Ie0HNq9fyF0VyPTWXFJgww~~/AAQRxQA~/RgRnlOGcP0ToaHR0cHM6Ly9jb21tdW5pdHkuY29kYS5pby90L2xhdW5jaGVkLW5hdGl2ZS1kZXBlbmRlbmNpZXMtZm9yLWVhc3ktYW5kLXBvd2VyZnVsLXByb2plY3QtbWFuYWdlbWVudC80NTA4NT9saWQ9ZHF6NHVsMGZzcWU2JmNhbnZhc19pZD0mdXRtX3NvdXJjZT1CcmF6ZSZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1bRW1haWxdIDAxLTI1LTIwMjQgfCBXaGF0J3MgTmV3IEphbiAyMDI0JnV0bV9jb250ZW50PVcDc3BjQgplsZxcsmUbWBmwUhhtYXR0aGV3QGJ1bnNlbnN0dWRpby5jb21YBAAAAkw~">enforced dependencies feature</a> adds a layer of automation and smart logic to your project timelines, so you can link tasks and automatically adjust timelines if something shifts.​</p>
+                        </div>
+                      </td>
+                    </tr>
+                  </table>
+                </div>
+
+                <!--[if mso | IE]>
+</td></tr></table>
+<![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <!--[if mso | IE]>
+</td></tr></table>
+<![endif]-->
+
+      <!--[if mso | IE]>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="row-border-outlook" style="width:640px;" width="640"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;">
+<![endif]-->
+      <div class="row-border" style="background-color:#FDF3D8;margin:0px auto;max-width:640px;">
+        <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#FDF3D8;width:100%;">
+          <tbody>
+            <tr>
+              <td style="direction:rtl;font-size:0px;padding:20px 0;padding-bottom:0px;padding-left:0px;padding-right:0px;padding-top:20px;text-align:center;vertical-align:top;">
+
+                <!--[if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td style="vertical-align:middle;width:320px;">
+<![endif]-->
+                <div class="dys-column-per-50 outlook-group-fix" style="direction:ltr;display:inline-block;font-size:13px;text-align:left;vertical-align:middle;width:100%;">
+                  <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+                    <tbody>
+                      <tr>
+                        <td style="padding-left:0;padding-right:0;vertical-align:middle;">
+                          <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="" width="100%">
+                            <tr>
+                              <td align="center" class="mobile-img-4-3" style="font-size:0px;padding:10px 30px;padding-left:0;padding-right:30px;word-break:break-word;">
+                                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:collapse;border-spacing:0px;">
+                                  <tbody>
+                                    <tr>
+                                      <td style="width:270px;"><img height="auto" src="https://cdn-web-assets.dyspatch.io/org_01gceye3h3mdhpetdrq2ygrd69/SiESnwX3T56egAYR8ped_03-Sync%20Page.gif" style="border:none;display:block;font-size:13px;height:auto;outline:none;text-decoration:none;width:100%;" width="270"></td>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                              </td>
+                            </tr>
+                          </table>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+
+                <!--[if mso | IE]>
+</td><td style="vertical-align:middle;width:320px;">
+<![endif]-->
+                <div class="dys-column-per-50 outlook-group-fix" style="direction:ltr;display:inline-block;font-size:13px;text-align:left;vertical-align:middle;width:100%;">
+                  <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+                    <tbody>
+                      <tr>
+                        <td style="padding-right:0;vertical-align:middle;">
+                          <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="" width="100%">
+                            <tr>
+                              <td align="left" style="font-size:0px;padding:10px 30px;word-break:break-word;">
+                                <div style="color:#101010;font-family:Helvetica, Arial, sans-serif;font-size:24px;font-weight:700;letter-spacing:-0.01em;line-height:31px;text-align:left;">
+                                  <p style="margin-top:0;margin-bottom:0;">Something to sync your teeth into.</p>
+                                </div>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td align="left" class="mobile-txt-padding" style="font-size:0px;padding:10px 30px;padding-right:0;word-break:break-word;">
+                                <div style="color:#101010;font-family:Helvetica, Arial, sans-serif;font-size:18px;font-weight:300;letter-spacing:-0.01em;line-height:27px;text-align:left;">
+                                  <p style="margin-top:0;margin-bottom:0;"><a href="https://build-links.coda.io/f/a/k5TsXxOJJ0tokUmA5WCl7A~~/AAQRxQA~/RgRnlOGcP0TBaHR0cHM6Ly9oZWxwLmNvZGEuaW8vZW4vYXJ0aWNsZXMvODQxMjA0My1zeW5jLXBhZ2VzLWJldHdlZW4tZG9jcz9saWQ9aDY5d3plZTkwNmhrJmNhbnZhc19pZD0mdXRtX3NvdXJjZT1CcmF6ZSZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1bRW1haWxdIDAxLTI1LTIwMjQgfCBXaGF0J3MgTmV3IEphbiAyMDI0JnV0bV9jb250ZW50PVcDc3BjQgplsZxcsmUbWBmwUhhtYXR0aGV3QGJ1bnNlbnN0dWRpby5jb21YBAAAAkw~">Sync pages</a><strong> </strong>are an efficient way of giving your team context without needing to switch tabs. You can sync pages with subpages, or even a whole doc into another doc, so if you’re working on multiple projects or with other teams you still have all the details you need in one place.</p>
+                                </div>
+                              </td>
+                            </tr>
+                          </table>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+
+                <!--[if mso | IE]>
+</td></tr></table>
+<![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <!--[if mso | IE]>
+</td></tr></table>
+<![endif]-->
+
+      <!--[if mso | IE]>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="row-border-outlook" style="width:640px;" width="640"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;">
+<![endif]-->
+      <div class="row-border" style="background-color:#FDF3D8;margin:0px auto;max-width:640px;">
+        <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#FDF3D8;width:100%;">
+          <tbody>
+            <tr>
+              <td style="direction:ltr;font-size:0px;padding:20px 0;padding-bottom:30px;padding-left:0px;padding-right:0px;padding-top:0px;text-align:center;vertical-align:top;">
+
+                <!--[if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td style="vertical-align:top;width:640px;">
+<![endif]-->
+                <div class="dys-column-per-100 outlook-group-fix" style="direction:ltr;display:inline-block;font-size:13px;text-align:left;vertical-align:top;width:100%;">
+                  <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;" width="100%">
+                    <tr>
+                      <td align="left" style="font-size:0px;padding:0 34px 0 30px;word-break:break-word;">
+                        <div style="color:#101010;font-family:Helvetica, Arial, sans-serif;font-size:18px;font-weight:300;letter-spacing:-0.01em;line-height:27px;text-align:left;">
+                          <p style="margin-top:0;margin-bottom:0;">Plus, you can now embed Jira and Trello dashboards, alongside Figma, Miro, Mode, and more, with full-page embeds.</p>
+                        </div>
+                      </td>
+                    </tr>
+                  </table>
+                </div>
+
+                <!--[if mso | IE]>
+</td></tr></table>
+<![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <!--[if mso | IE]>
+</td></tr></table>
+<![endif]-->
+
+      <!--[if mso | IE]>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="row-border-outlook" style="width:640px;" width="640"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;">
+<![endif]-->
+      <div class="row-border" style="background-color:#FDDCB0;margin:0px auto;max-width:640px;">
+        <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#FDDCB0;width:100%;">
+          <tbody>
+            <tr>
+              <td style="direction:ltr;font-size:0px;padding:0;text-align:center;vertical-align:top;">
+
+                <!--[if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td style="vertical-align:top;width:640px;">
+<![endif]-->
+                <div class="dys-column-per-100 outlook-group-fix" style="direction:ltr;display:inline-block;font-size:13px;text-align:left;vertical-align:top;width:100%;">
+                  <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;" width="100%">
+                    <tr>
+                      <td align="center" style="font-size:0px;padding:0;padding-top:0px;word-break:break-word;">
+                        <p style="border-top-color:#101010;border-top-style:solid;border-top-width:1px;font-size:1px;margin:0px auto;width:100%;"></p>
+
+                        <!--[if mso | IE]><table align='center' border='0' cellpadding='0' cellspacing='0' role='presentation' style='border-top-color:#101010;border-top-style:solid;border-top-width:1px;font-size:1px;margin:0px auto;width:640px;' width='640px'><tr><td style='height:0;line-height:0;'>&nbsp</td></tr></table><![endif]-->
+                      </td>
+                    </tr>
+                  </table>
+                </div>
+
+                <!--[if mso | IE]>
+</td></tr></table>
+<![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <!--[if mso | IE]>
+</td></tr></table>
+<![endif]-->
+
+      <!--[if mso | IE]>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="row-border-outlook" style="width:640px;" width="640"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;">
+<![endif]-->
+      <div class="row-border" style="background-color:#FDDCB0;margin:0px auto;max-width:640px;">
+        <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#FDDCB0;width:100%;">
+          <tbody>
+            <tr>
+              <td style="direction:ltr;font-size:0px;padding:20px 0;padding-bottom:10px;padding-left:0px;padding-right:0px;padding-top:20px;text-align:center;vertical-align:top;">
+
+                <!--[if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td style="vertical-align:top;width:640px;">
+<![endif]-->
+                <div class="dys-column-per-100 outlook-group-fix" style="direction:ltr;display:inline-block;font-size:13px;text-align:left;vertical-align:top;width:100%;">
+                  <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;" width="100%">
+                    <tr>
+                      <td align="left" style="font-size:0px;padding:10px 30px;padding-bottom:0;padding-top:0;word-break:break-word;">
+                        <h2 style="color:#101010;font-family:Helvetica, Arial, sans-serif;font-size:24px;font-weight:700;letter-spacing:-.02em;line-height:31px;margin:0;padding:0;text-align:left;">Small things considered.</h2>
+                      </td>
+                    </tr>
+                  </table>
+                </div>
+
+                <!--[if mso | IE]>
+</td></tr></table>
+<![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <!--[if mso | IE]>
+</td></tr></table>
+<![endif]-->
+
+      <!--[if mso | IE]>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="row-border-outlook" style="width:640px;" width="640"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;">
+<![endif]-->
+      <div class="row-border" style="background-color:#FDDCB0;margin:0px auto;max-width:640px;">
+        <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#FDDCB0;width:100%;">
+          <tbody>
+            <tr>
+              <td style="direction:ltr;font-size:0px;padding:20px 0;padding-bottom:0px;padding-left:0px;padding-right:0px;padding-top:20px;text-align:center;vertical-align:top;">
+
+                <!--[if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td style="vertical-align:top;width:160px;">
+<![endif]-->
+                <div class="dys-column-per-25 outlook-group-fix" style="direction:ltr;display:inline-block;font-size:13px;text-align:left;vertical-align:top;width:100%;">
+                  <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+                    <tbody>
+                      <tr>
+                        <td style="padding-right:0;vertical-align:top;">
+                          <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="" width="100%">
+                            <tr>
+                              <td align="left" style="font-size:0px;padding:0;padding-left:30px;word-break:break-word;">
+                                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:collapse;border-spacing:0px;">
+                                  <tbody>
+                                    <tr>
+                                      <td style="width:120px;"><img height="auto" src="https://cdn-web-assets.dyspatch.io/org_01gceye3h3mdhpetdrq2ygrd69/Zpm9R4bQKilc1Bz0BJ8w_01-AI.png" style="border:none;display:block;font-size:13px;height:auto;outline:none;text-decoration:none;width:100%;" width="120"></td>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                              </td>
+                            </tr>
+                          </table>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+
+                <!--[if mso | IE]>
+</td><td style="vertical-align:top;width:480px;">
+<![endif]-->
+                <div class="dys-column-per-75 outlook-group-fix" style="direction:ltr;display:inline-block;font-size:13px;text-align:left;vertical-align:top;width:100%;">
+                  <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;" width="100%">
+                    <tr>
+                      <td align="left" class="mobile-font-size tp-pd-mb" style="font-size:0px;padding:10px 30px;padding-top:0;word-break:break-word;">
+                        <div style="color:#101010;font-family:Helvetica, Arial, sans-serif;font-size:18px;font-weight:300;letter-spacing:-0.01em;line-height:27px;text-align:left;">
+                          <p style="margin-top:0;margin-bottom:0;"><strong>A(I)-grade updates:</strong></p>
+                          <ul>
+                            <li>
+                              <div style="position:relative;">Get candid, relevant comments on your doc from Coda AI to help you improve readability, format, length, grammar, and more—just like getting a co-worker to give feedback, but available 24/7.</div>
+                            </li>
+                            <li>
+                              <div style="position:relative;">Finesse your AI prompts before filling columns (and using your credits) with a more detailed preview of what the AI will generate.</div>
+                            </li>
+                            <li>
+                              <div style="position:relative;">Toggle between faster answers or a higher quality (GPT-4 Turbo-powered) response when using AI chat.</div>
+                            </li>
+                            <li>
+                              <div style="position:relative;">Track and manage AI usage by Doc Maker with a new admin dashboard, plus set a daily cap to manage credit use.</div>
+                            </li>
+                            <li>
+                              <div style="position:relative;">Purchase additional AI credits—or go unlimited—if you’re looking to unlock even more AI goodness.</div>
+                            </li>
+                          </ul>
+                        </div>
+                      </td>
+                    </tr>
+                  </table>
+                </div>
+
+                <!--[if mso | IE]>
+</td></tr></table>
+<![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <!--[if mso | IE]>
+</td></tr></table>
+<![endif]-->
+
+      <!--[if mso | IE]>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="row-border-outlook" style="width:640px;" width="640"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;">
+<![endif]-->
+      <div class="row-border" style="background-color:#FDDCB0;margin:0px auto;max-width:640px;">
+        <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#FDDCB0;width:100%;">
+          <tbody>
+            <tr>
+              <td style="direction:ltr;font-size:0px;padding:20px 0;text-align:center;vertical-align:top;">
+
+                <!--[if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td style="vertical-align:middle;width:160px;">
+<![endif]-->
+                <div class="dys-column-per-25 outlook-group-fix" style="direction:ltr;display:inline-block;font-size:13px;text-align:left;vertical-align:middle;width:100%;">
+                  <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+                    <tbody>
+                      <tr>
+                        <td style="padding-right:0;vertical-align:middle;">
+                          <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="" width="100%">
+                            <tr>
+                              <td align="left" style="font-size:0px;padding:0;padding-left:30px;word-break:break-word;">
+                                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:collapse;border-spacing:0px;">
+                                  <tbody>
+                                    <tr>
+                                      <td style="width:120px;"><img height="auto" src="https://cdn-web-assets.dyspatch.io/org_01gceye3h3mdhpetdrq2ygrd69/rDK23Lq0ROiFf8lVqmB0_02-Pack%202-way.png" style="border:none;display:block;font-size:13px;height:auto;outline:none;text-decoration:none;width:100%;" width="120"></td>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                              </td>
+                            </tr>
+                          </table>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+
+                <!--[if mso | IE]>
+</td><td style="vertical-align:middle;width:480px;">
+<![endif]-->
+                <div class="dys-column-per-75 outlook-group-fix" style="direction:ltr;display:inline-block;font-size:13px;text-align:left;vertical-align:middle;width:100%;">
+                  <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:middle;" width="100%">
+                    <tr>
+                      <td align="left" class="mobile-font-size" style="font-size:0px;padding:10px 30px;word-break:break-word;">
+                        <div style="color:#101010;font-family:Helvetica, Arial, sans-serif;font-size:18px;font-weight:300;letter-spacing:-0.01em;line-height:27px;text-align:left;">
+                          <p style="margin-top:0;margin-bottom:0;"><strong>It goes both ways.</strong></p>
+                          <p style="margin-top:0;margin-bottom:0;">Packs support two-way sync, so you can make updates directly in Coda and have them sync back to Salesforce, Jira, GitHub, Google Calendar, Google Sheets, and more. </p>
+                        </div>
+                      </td>
+                    </tr>
+                  </table>
+                </div>
+
+                <!--[if mso | IE]>
+</td></tr></table>
+<![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <!--[if mso | IE]>
+</td></tr></table>
+<![endif]-->
+
+      <!--[if mso | IE]>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="row-border-outlook" style="width:640px;" width="640"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;">
+<![endif]-->
+      <div class="row-border" style="background-color:#FDDCB0;margin:0px auto;max-width:640px;">
+        <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#FDDCB0;width:100%;">
+          <tbody>
+            <tr>
+              <td style="direction:ltr;font-size:0px;padding:20px 0;text-align:center;vertical-align:top;">
+
+                <!--[if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td style="vertical-align:middle;width:160px;">
+<![endif]-->
+                <div class="dys-column-per-25 outlook-group-fix" style="direction:ltr;display:inline-block;font-size:13px;text-align:left;vertical-align:middle;width:100%;">
+                  <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+                    <tbody>
+                      <tr>
+                        <td style="padding-right:0;vertical-align:middle;">
+                          <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="" width="100%">
+                            <tr>
+                              <td align="left" style="font-size:0px;padding:0;padding-left:30px;word-break:break-word;">
+                                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:collapse;border-spacing:0px;">
+                                  <tbody>
+                                    <tr>
+                                      <td style="width:120px;"><img height="auto" src="https://cdn-web-assets.dyspatch.io/org_01gceye3h3mdhpetdrq2ygrd69/HirGe8sVQKqd7d2grkTg_03-New%20Perspective.png" style="border:none;display:block;font-size:13px;height:auto;outline:none;text-decoration:none;width:100%;" width="120"></td>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                              </td>
+                            </tr>
+                          </table>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+
+                <!--[if mso | IE]>
+</td><td style="vertical-align:middle;width:480px;">
+<![endif]-->
+                <div class="dys-column-per-75 outlook-group-fix" style="direction:ltr;display:inline-block;font-size:13px;text-align:left;vertical-align:middle;width:100%;">
+                  <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:middle;" width="100%">
+                    <tr>
+                      <td align="left" class="mobile-font-size" style="font-size:0px;padding:10px 30px;word-break:break-word;">
+                        <div style="color:#101010;font-family:Helvetica, Arial, sans-serif;font-size:18px;font-weight:300;letter-spacing:-0.01em;line-height:27px;text-align:left;">
+                          <p style="margin-top:0;margin-bottom:0;"><strong>A new perspective.</strong></p>
+                          <p style="margin-top:0;margin-bottom:0;">Anchor the row details view to the right-hand side of your doc, so you can see it while navigating and editing pages.</p>
+                        </div>
+                      </td>
+                    </tr>
+                  </table>
+                </div>
+
+                <!--[if mso | IE]>
+</td></tr></table>
+<![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <!--[if mso | IE]>
+</td></tr></table>
+<![endif]-->
+
+      <!--[if mso | IE]>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="row-border-outlook" style="width:640px;" width="640"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;">
+<![endif]-->
+      <div class="row-border" style="background-color:#FDDCB0;margin:0px auto;max-width:640px;">
+        <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#FDDCB0;width:100%;">
+          <tbody>
+            <tr>
+              <td style="direction:ltr;font-size:0px;padding:20px 0;text-align:center;vertical-align:top;">
+
+                <!--[if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td style="vertical-align:middle;width:160px;">
+<![endif]-->
+                <div class="dys-column-per-25 outlook-group-fix" style="direction:ltr;display:inline-block;font-size:13px;text-align:left;vertical-align:middle;width:100%;">
+                  <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+                    <tbody>
+                      <tr>
+                        <td style="padding-right:0;vertical-align:middle;">
+                          <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="" width="100%">
+                            <tr>
+                              <td align="left" style="font-size:0px;padding:0;padding-left:30px;word-break:break-word;">
+                                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:collapse;border-spacing:0px;">
+                                  <tbody>
+                                    <tr>
+                                      <td style="width:120px;"><img height="auto" src="https://cdn-web-assets.dyspatch.io/org_01gceye3h3mdhpetdrq2ygrd69/FbNVLOTTqO9z4vWHo3On_04-Insight%20in%20sight.png" style="border:none;display:block;font-size:13px;height:auto;outline:none;text-decoration:none;width:100%;" width="120"></td>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                              </td>
+                            </tr>
+                          </table>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+
+                <!--[if mso | IE]>
+</td><td style="vertical-align:middle;width:480px;">
+<![endif]-->
+                <div class="dys-column-per-75 outlook-group-fix" style="direction:ltr;display:inline-block;font-size:13px;text-align:left;vertical-align:middle;width:100%;">
+                  <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:middle;" width="100%">
+                    <tr>
+                      <td align="left" class="mobile-font-size" style="font-size:0px;padding:10px 30px;word-break:break-word;">
+                        <div style="color:#101010;font-family:Helvetica, Arial, sans-serif;font-size:18px;font-weight:300;letter-spacing:-0.01em;line-height:27px;text-align:left;">
+                          <p style="margin-top:0;margin-bottom:0;"><strong>Insights in sight.</strong></p>
+                          <p style="margin-top:0;margin-bottom:0;">Get more visibility into how members of your workspace are using Coda. Admins can now view last engagement, number of owned docs, and Coda AI usage per member.</p>
+                        </div>
+                      </td>
+                    </tr>
+                  </table>
+                </div>
+
+                <!--[if mso | IE]>
+</td></tr></table>
+<![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <!--[if mso | IE]>
+</td></tr></table>
+<![endif]-->
+
+      <!--[if mso | IE]>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="row-border-outlook" style="width:640px;" width="640"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;">
+<![endif]-->
+      <div class="row-border" style="background-color:#FDDCB0;margin:0px auto;max-width:640px;">
+        <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#FDDCB0;width:100%;">
+          <tbody>
+            <tr>
+              <td style="direction:ltr;font-size:0px;padding:20px 0;text-align:center;vertical-align:top;">
+
+                <!--[if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td style="vertical-align:middle;width:160px;">
+<![endif]-->
+                <div class="dys-column-per-25 outlook-group-fix" style="direction:ltr;display:inline-block;font-size:13px;text-align:left;vertical-align:middle;width:100%;">
+                  <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+                    <tbody>
+                      <tr>
+                        <td style="padding-right:0;vertical-align:middle;">
+                          <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="" width="100%">
+                            <tr>
+                              <td align="left" style="font-size:0px;padding:0;padding-left:30px;word-break:break-word;">
+                                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:collapse;border-spacing:0px;">
+                                  <tbody>
+                                    <tr>
+                                      <td style="width:120px;"><img height="auto" src="https://cdn-web-assets.dyspatch.io/org_01gceye3h3mdhpetdrq2ygrd69/rQopMRlYQ6aEjzNgNB3G_05-In%20Harmony.png" style="border:none;display:block;font-size:13px;height:auto;outline:none;text-decoration:none;width:100%;" width="120"></td>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                              </td>
+                            </tr>
+                          </table>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+
+                <!--[if mso | IE]>
+</td><td style="vertical-align:middle;width:480px;">
+<![endif]-->
+                <div class="dys-column-per-75 outlook-group-fix" style="direction:ltr;display:inline-block;font-size:13px;text-align:left;vertical-align:middle;width:100%;">
+                  <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:middle;" width="100%">
+                    <tr>
+                      <td align="left" class="mobile-font-size" style="font-size:0px;padding:10px 30px;word-break:break-word;">
+                        <div style="color:#101010;font-family:Helvetica, Arial, sans-serif;font-size:18px;font-weight:300;letter-spacing:-0.01em;line-height:27px;text-align:left;">
+                          <p style="margin-top:0;margin-bottom:0;"><strong>In harmony.</strong></p>
+                          <p style="margin-top:0;margin-bottom:0;"> In the Chrome browser, you can securely embed Coda docs on Google Sites and edit them directly from the embed.</p>
+                        </div>
+                      </td>
+                    </tr>
+                  </table>
+                </div>
+
+                <!--[if mso | IE]>
+</td></tr></table>
+<![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <!--[if mso | IE]>
+</td></tr></table>
+<![endif]-->
+
+      <!--[if mso | IE]>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="row-border-outlook" style="width:640px;" width="640"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;">
+<![endif]-->
+      <div class="row-border" style="background-color:#FDDCB0;margin:0px auto;max-width:640px;">
+        <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#FDDCB0;width:100%;">
+          <tbody>
+            <tr>
+              <td style="direction:ltr;font-size:0px;padding:20px 0;text-align:center;vertical-align:top;">
+
+                <!--[if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td style="vertical-align:middle;width:160px;">
+<![endif]-->
+                <div class="dys-column-per-25 outlook-group-fix" style="direction:ltr;display:inline-block;font-size:13px;text-align:left;vertical-align:middle;width:100%;">
+                  <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+                    <tbody>
+                      <tr>
+                        <td style="padding-right:0;vertical-align:middle;">
+                          <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="" width="100%">
+                            <tr>
+                              <td align="left" style="font-size:0px;padding:0;padding-left:30px;word-break:break-word;">
+                                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:collapse;border-spacing:0px;">
+                                  <tbody>
+                                    <tr>
+                                      <td style="width:120px;"><img height="auto" src="https://cdn-web-assets.dyspatch.io/org_01gceye3h3mdhpetdrq2ygrd69/M01LtyPwQNOAEfZNbyUe_06-Security.png" style="border:none;display:block;font-size:13px;height:auto;outline:none;text-decoration:none;width:100%;" width="120"></td>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                              </td>
+                            </tr>
+                          </table>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+
+                <!--[if mso | IE]>
+</td><td style="vertical-align:middle;width:480px;">
+<![endif]-->
+                <div class="dys-column-per-75 outlook-group-fix" style="direction:ltr;display:inline-block;font-size:13px;text-align:left;vertical-align:middle;width:100%;">
+                  <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:middle;" width="100%">
+                    <tr>
+                      <td align="left" class="mobile-font-size" style="font-size:0px;padding:10px 30px;word-break:break-word;">
+                        <div style="color:#101010;font-family:Helvetica, Arial, sans-serif;font-size:18px;font-weight:300;letter-spacing:-0.01em;line-height:27px;text-align:left;">
+                          <p style="margin-top:0;margin-bottom:0;"><strong>Security, security, security.</strong></p>
+                          <p style="margin-top:0;margin-bottom:0;">Enterprise teams with internal security requirements can set up custom policies for sharing, publishing, exports, uploads, and more.</p>
+                        </div>
+                      </td>
+                    </tr>
+                  </table>
+                </div>
+
+                <!--[if mso | IE]>
+</td></tr></table>
+<![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <!--[if mso | IE]>
+</td></tr></table>
+<![endif]-->
+
+      <!--[if mso | IE]>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="row-border-outlook" style="width:640px;" width="640"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;">
+<![endif]-->
+      <div class="row-border" style="background-color:#FDDCB0;margin:0px auto;max-width:640px;">
+        <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#FDDCB0;width:100%;">
+          <tbody>
+            <tr>
+              <td style="direction:ltr;font-size:0px;padding:20px 0;text-align:center;vertical-align:top;">
+
+                <!--[if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td style="vertical-align:middle;width:160px;">
+<![endif]-->
+                <div class="dys-column-per-25 outlook-group-fix" style="direction:ltr;display:inline-block;font-size:13px;text-align:left;vertical-align:middle;width:100%;">
+                  <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+                    <tbody>
+                      <tr>
+                        <td style="padding-right:0;vertical-align:middle;">
+                          <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="" width="100%">
+                            <tr>
+                              <td align="left" style="font-size:0px;padding:0;padding-left:30px;word-break:break-word;">
+                                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:collapse;border-spacing:0px;">
+                                  <tbody>
+                                    <tr>
+                                      <td style="width:120px;"><img height="auto" src="https://cdn-web-assets.dyspatch.io/org_01gceye3h3mdhpetdrq2ygrd69/71wvmge9RWn9GGw748qb_07-Time%20is%20endless.png" style="border:none;display:block;font-size:13px;height:auto;outline:none;text-decoration:none;width:100%;" width="120"></td>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                              </td>
+                            </tr>
+                          </table>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+
+                <!--[if mso | IE]>
+</td><td style="vertical-align:middle;width:480px;">
+<![endif]-->
+                <div class="dys-column-per-75 outlook-group-fix" style="direction:ltr;display:inline-block;font-size:13px;text-align:left;vertical-align:middle;width:100%;">
+                  <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:middle;" width="100%">
+                    <tr>
+                      <td align="left" class="mobile-font-size" style="font-size:0px;padding:10px 30px;word-break:break-word;">
+                        <div style="color:#101010;font-family:Helvetica, Arial, sans-serif;font-size:18px;font-weight:300;letter-spacing:-0.01em;line-height:27px;text-align:left;">
+                          <p style="margin-top:0;margin-bottom:0;"><strong>Time is endless.</strong></p>
+                          <p style="margin-top:0;margin-bottom:0;">Timelines are easier to navigate and view. Scroll infinitely without losing your place, zoom in to a single day or out to several years, and jump to “today” or to a particular task.</p>
+                        </div>
+                      </td>
+                    </tr>
+                  </table>
+                </div>
+
+                <!--[if mso | IE]>
+</td></tr></table>
+<![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <!--[if mso | IE]>
+</td></tr></table>
+<![endif]-->
+
+      <!--[if mso | IE]>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="row-border-outlook" style="width:640px;" width="640"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;">
+<![endif]-->
+      <div class="row-border" style="background-color:#FDDCB0;margin:0px auto;max-width:640px;">
+        <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#FDDCB0;width:100%;">
+          <tbody>
+            <tr>
+              <td style="direction:ltr;font-size:0px;padding:20px 0;text-align:center;vertical-align:top;">
+
+                <!--[if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td style="vertical-align:middle;width:160px;">
+<![endif]-->
+                <div class="dys-column-per-25 outlook-group-fix" style="direction:ltr;display:inline-block;font-size:13px;text-align:left;vertical-align:middle;width:100%;">
+                  <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+                    <tbody>
+                      <tr>
+                        <td style="padding-right:0;vertical-align:middle;">
+                          <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="" width="100%">
+                            <tr>
+                              <td align="left" style="font-size:0px;padding:0;padding-left:30px;word-break:break-word;">
+                                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:collapse;border-spacing:0px;">
+                                  <tbody>
+                                    <tr>
+                                      <td style="width:120px;"><img height="auto" src="https://cdn-web-assets.dyspatch.io/org_01gceye3h3mdhpetdrq2ygrd69/5hZp10wDSiaXG8cuug9M_08-Frehsh%20paint.png" style="border:none;display:block;font-size:13px;height:auto;outline:none;text-decoration:none;width:100%;" width="120"></td>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                              </td>
+                            </tr>
+                          </table>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+
+                <!--[if mso | IE]>
+</td><td style="vertical-align:middle;width:480px;">
+<![endif]-->
+                <div class="dys-column-per-75 outlook-group-fix" style="direction:ltr;display:inline-block;font-size:13px;text-align:left;vertical-align:middle;width:100%;">
+                  <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:middle;" width="100%">
+                    <tr>
+                      <td align="left" class="mobile-font-size" style="font-size:0px;padding:10px 30px;word-break:break-word;">
+                        <div style="color:#101010;font-family:Helvetica, Arial, sans-serif;font-size:18px;font-weight:300;letter-spacing:-0.01em;line-height:27px;text-align:left;">
+                          <p style="margin-top:0;margin-bottom:0;"><strong>Fresh paint.</strong></p>
+                          <p style="margin-top:0;margin-bottom:0;">Groups in tables have had a design refresh to make them easier to pin, collapse/uncollapse, and take actions on.</p>
+                        </div>
+                      </td>
+                    </tr>
+                  </table>
+                </div>
+
+                <!--[if mso | IE]>
+</td></tr></table>
+<![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <!--[if mso | IE]>
+</td></tr></table>
+<![endif]-->
+
+      <!--[if mso | IE]>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="row-border-outlook" style="width:640px;" width="640"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;">
+<![endif]-->
+      <div class="row-border" style="background-color:#FDDCB0;margin:0px auto;max-width:640px;">
+        <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#FDDCB0;width:100%;">
+          <tbody>
+            <tr>
+              <td style="direction:ltr;font-size:0px;padding:20px 0;text-align:center;vertical-align:top;">
+
+                <!--[if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td style="vertical-align:middle;width:160px;">
+<![endif]-->
+                <div class="dys-column-per-25 outlook-group-fix" style="direction:ltr;display:inline-block;font-size:13px;text-align:left;vertical-align:middle;width:100%;">
+                  <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+                    <tbody>
+                      <tr>
+                        <td style="padding-right:0;vertical-align:middle;">
+                          <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="" width="100%">
+                            <tr>
+                              <td align="left" style="font-size:0px;padding:0;padding-left:30px;word-break:break-word;">
+                                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:collapse;border-spacing:0px;">
+                                  <tbody>
+                                    <tr>
+                                      <td style="width:120px;"><img height="auto" src="https://cdn-web-assets.dyspatch.io/org_01gceye3h3mdhpetdrq2ygrd69/dNjCVHLYT5WtDZ1NQgGa_09-Shipathon.png" style="border:none;display:block;font-size:13px;height:auto;outline:none;text-decoration:none;width:100%;" width="120"></td>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                              </td>
+                            </tr>
+                          </table>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+
+                <!--[if mso | IE]>
+</td><td style="vertical-align:middle;width:480px;">
+<![endif]-->
+                <div class="dys-column-per-75 outlook-group-fix" style="direction:ltr;display:inline-block;font-size:13px;text-align:left;vertical-align:middle;width:100%;">
+                  <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:middle;" width="100%">
+                    <tr>
+                      <td align="left" class="mobile-font-size" style="font-size:0px;padding:10px 30px;word-break:break-word;">
+                        <div style="color:#101010;font-family:Helvetica, Arial, sans-serif;font-size:18px;font-weight:300;letter-spacing:-0.01em;line-height:27px;text-align:left;">
+                          <p style="margin-top:0;margin-bottom:0;"><strong>Shipathon fun.</strong></p>
+                          <p style="margin-top:0;margin-bottom:0;">This month our product team continued our annual “shipathon” tradition, devoting an entire week to shipping as many quality-of-life improvements as possible. We shipped over a dozen updates, including default page widths, ability to toggle “Add a column” on or off, and more. Follow along <a href="https://build-links.coda.io/f/a/s5tiLzeJv5O83tJHRSgbmQ~~/AAQRxQA~/RgRnlOGcP0TaaHR0cHM6Ly9jb21tdW5pdHkuY29kYS5pby90LzEyLXF1YWxpdHktb2YtbGlmZS1pbXByb3ZlbWVudHMtdG8teW91ci1jb2RhLWV4cGVyaWVuY2UvNDU5NzM_bGlkPWcybXJnODd2ejJuMiZjYW52YXNfaWQ9JnV0bV9zb3VyY2U9QnJhemUmdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249W0VtYWlsXSAwMS0yNS0yMDI0IHwgV2hhdCdzIE5ldyBKYW4gMjAyNCZ1dG1fY29udGVudD1XA3NwY0IKZbGcXLJlG1gZsFIYbWF0dGhld0BidW5zZW5zdHVkaW8uY29tWAQAAAJM" style="text-decoration:;">here</a> to see more shipping soon!</p>
+                        </div>
+                      </td>
+                    </tr>
+                  </table>
+                </div>
+
+                <!--[if mso | IE]>
+</td></tr></table>
+<![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <!--[if mso | IE]>
+</td></tr></table>
+<![endif]-->
+
+      <!--[if mso | IE]>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="row-border-outlook" style="width:640px;" width="640"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;">
+<![endif]-->
+      <div class="row-border" style="background-color:#FDDCB0;margin:0px auto;max-width:640px;">
+        <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#FDDCB0;width:100%;">
+          <tbody>
+            <tr>
+              <td style="direction:ltr;font-size:0px;padding:20px 0;text-align:center;vertical-align:top;">
+
+                <!--[if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td style="vertical-align:middle;width:160px;">
+<![endif]-->
+                <div class="dys-column-per-25 outlook-group-fix" style="direction:ltr;display:inline-block;font-size:13px;text-align:left;vertical-align:middle;width:100%;">
+                  <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+                    <tbody>
+                      <tr>
+                        <td style="padding-right:0;vertical-align:middle;">
+                          <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="" width="100%">
+                            <tr>
+                              <td align="left" style="font-size:0px;padding:0;padding-left:30px;word-break:break-word;">
+                                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:collapse;border-spacing:0px;">
+                                  <tbody>
+                                    <tr>
+                                      <td style="width:120px;"><img height="auto" src="https://cdn-web-assets.dyspatch.io/org_01gceye3h3mdhpetdrq2ygrd69/9DqO4uEXRaimu8jUeCSS_10-Making%20connection.png" style="border:none;display:block;font-size:13px;height:auto;outline:none;text-decoration:none;width:100%;" width="120"></td>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                              </td>
+                            </tr>
+                          </table>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+
+                <!--[if mso | IE]>
+</td><td style="vertical-align:middle;width:480px;">
+<![endif]-->
+                <div class="dys-column-per-75 outlook-group-fix" style="direction:ltr;display:inline-block;font-size:13px;text-align:left;vertical-align:middle;width:100%;">
+                  <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:middle;" width="100%">
+                    <tr>
+                      <td align="left" class="mobile-font-size" style="font-size:0px;padding:10px 30px;word-break:break-word;">
+                        <div style="color:#101010;font-family:Helvetica, Arial, sans-serif;font-size:18px;font-weight:300;letter-spacing:-0.01em;line-height:27px;text-align:left;">
+                          <p style="margin-top:0;margin-bottom:0;"><strong>Making connections.</strong></p>
+                          <p style="margin-top:0;margin-bottom:0;">Admins can view Pack requests in internal ticketing systems using the admin API.</p>
+                        </div>
+                      </td>
+                    </tr>
+                  </table>
+                </div>
+
+                <!--[if mso | IE]>
+</td></tr></table>
+<![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <!--[if mso | IE]>
+</td></tr></table>
+<![endif]-->
+
+      <!--[if mso | IE]>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="row-border-outlook" style="width:640px;" width="640"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;">
+<![endif]-->
+      <div class="row-border" style="background-color:#FDDCB0;margin:0px auto;max-width:640px;">
+        <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#FDDCB0;width:100%;">
+          <tbody>
+            <tr>
+              <td style="direction:ltr;font-size:0px;padding:20px 0;padding-bottom:20px;padding-left:0px;padding-right:0px;padding-top:20px;text-align:center;vertical-align:top;">
+
+                <!--[if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td style="vertical-align:top;width:640px;">
+<![endif]-->
+                <div class="dys-column-per-100 outlook-group-fix" style="direction:ltr;display:inline-block;font-size:13px;text-align:left;vertical-align:top;width:100%;">
+                  <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;" width="100%">
+                    <tr>
+                      <td align="left" style="font-size:0px;padding:0 34px 0 30px;word-break:break-word;">
+                        <div style="color:#101010;font-family:Helvetica, Arial, sans-serif;font-size:18px;font-weight:300;letter-spacing:-0.01em;line-height:27px;text-align:left;">
+                          <p style="margin-top:0;margin-bottom:0;text-align:center;"><em>See these and all of our latest product updates </em><a href="https://build-links.coda.io/f/a/xu5sSrWz9DWX9VdEnte-PQ~~/AAQRxQA~/RgRnlOGcP0SgaHR0cHM6Ly9jb2RhLmlvL3Byb2R1Y3QvdXBkYXRlcz9saWQ9bW5ocW43OGN3Y2d2JmNhbnZhc19pZD0mdXRtX3NvdXJjZT1CcmF6ZSZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1bRW1haWxdIDAxLTI1LTIwMjQgfCBXaGF0J3MgTmV3IEphbiAyMDI0JnV0bV9jb250ZW50PVcDc3BjQgplsZxcsmUbWBmwUhhtYXR0aGV3QGJ1bnNlbnN0dWRpby5jb21YBAAAAkw~"><em>here</em></a><em>.</em></p>
+                        </div>
+                      </td>
+                    </tr>
+                  </table>
+                </div>
+
+                <!--[if mso | IE]>
+</td></tr></table>
+<![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <!--[if mso | IE]>
+</td></tr></table>
+<![endif]-->
+
+      <!--[if mso | IE]>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="row-border-outlook" style="width:640px;" width="640"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;">
+<![endif]-->
+      <div class="row-border" style="background-color:#FDDCB0;margin:0px auto;max-width:640px;">
+        <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#FDDCB0;width:100%;">
+          <tbody>
+            <tr>
+              <td style="direction:ltr;font-size:0px;padding:0;text-align:center;vertical-align:top;">
+
+                <!--[if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td style="vertical-align:top;width:640px;">
+<![endif]-->
+                <div class="dys-column-per-100 outlook-group-fix" style="direction:ltr;display:inline-block;font-size:13px;text-align:left;vertical-align:top;width:100%;">
+                  <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;" width="100%">
+                    <tr>
+                      <td align="center" style="font-size:0px;padding:0;padding-top:0px;word-break:break-word;">
+                        <p style="border-top-color:#101010;border-top-style:solid;border-top-width:1px;font-size:1px;margin:0px auto;width:100%;"></p>
+
+                        <!--[if mso | IE]><table align='center' border='0' cellpadding='0' cellspacing='0' role='presentation' style='border-top-color:#101010;border-top-style:solid;border-top-width:1px;font-size:1px;margin:0px auto;width:640px;' width='640px'><tr><td style='height:0;line-height:0;'>&nbsp</td></tr></table><![endif]-->
+                      </td>
+                    </tr>
+                  </table>
+                </div>
+
+                <!--[if mso | IE]>
+</td></tr></table>
+<![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <!--[if mso | IE]>
+</td></tr></table>
+<![endif]-->
+
+      <!--[if mso | IE]>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="row-border-outlook" style="width:640px;" width="640"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;">
+<![endif]-->
+      <div class="row-border" style="background-color:#FFFFFF;margin:0px auto;max-width:640px;">
+        <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#FFFFFF;width:100%;">
+          <tbody>
+            <tr>
+              <td style="direction:ltr;font-size:0px;padding:0;padding-bottom:0px;padding-left:0px;padding-right:0px;padding-top:20px;text-align:center;vertical-align:top;">
+
+                <!--[if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td style="vertical-align:top;width:640px;">
+<![endif]-->
+                <div class="dys-column-per-100 outlook-group-fix" style="direction:ltr;display:inline-block;font-size:13px;text-align:left;vertical-align:top;width:100%;">
+                  <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;" width="100%">
+                    <tr>
+                      <td style="font-size:0px;word-break:break-word;">
+                        <div style="height:10px;line-height:10px;"> </div>
+                      </td>
+                    </tr>
+                  </table>
+                </div>
+
+                <!--[if mso | IE]>
+</td></tr></table>
+<![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <!--[if mso | IE]>
+</td></tr></table>
+<![endif]-->
+
+      <!--[if mso | IE]>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="row-border-outlook" style="width:640px;" width="640"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;">
+<![endif]-->
+      <div class="row-border" style="background-color:#FFFFFF;margin:0px auto;max-width:640px;">
+        <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#FFFFFF;width:100%;">
+          <tbody>
+            <tr>
+              <td style="direction:ltr;font-size:0px;padding:20px 0;padding-bottom:0;padding-top:0;text-align:center;vertical-align:top;">
+
+                <!--[if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td style="vertical-align:top;width:640px;">
+<![endif]-->
+                <div class="dys-column-per-100 outlook-group-fix" style="direction:ltr;display:inline-block;font-size:13px;text-align:left;vertical-align:top;width:100%;">
+                  <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;" width="100%">
+                    <tr>
+                      <td align="left" style="font-size:0px;padding:10px 30px;padding-bottom:0;padding-top:0;word-break:break-word;">
+                        <h2 style="color:#101010;font-family:Helvetica, Arial, sans-serif;font-size:24px;font-weight:700;letter-spacing:-.02em;line-height:31px;margin:0;padding:0;text-align:left;">Watch and learn.</h2>
+                      </td>
+                    </tr>
+                  </table>
+                </div>
+
+                <!--[if mso | IE]>
+</td></tr></table>
+<![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <!--[if mso | IE]>
+</td></tr></table>
+<![endif]-->
+
+      <!--[if mso | IE]>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="row-border-outlook" style="width:640px;" width="640"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;">
+<![endif]-->
+      <div class="row-border" style="background-color:#FFFFFF;margin:0px auto;max-width:640px;">
+        <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#FFFFFF;width:100%;">
+          <tbody>
+            <tr>
+              <td style="direction:ltr;font-size:0px;padding:20px 0;text-align:center;vertical-align:top;">
+
+                <!--[if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td style="vertical-align:top;width:640px;">
+<![endif]-->
+                <div class="dys-column-per-100 outlook-group-fix" style="direction:ltr;display:inline-block;font-size:13px;text-align:left;vertical-align:top;width:100%;">
+                  <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;" width="100%">
+                    <tr>
+                      <td align="left" style="font-size:0px;padding:0 34px 0 30px;word-break:break-word;">
+                        <div style="color:#101010;font-family:Helvetica, Arial, sans-serif;font-size:18px;font-weight:300;letter-spacing:-0.01em;line-height:27px;text-align:left;">
+                          <p style="margin-top:0;margin-bottom:0;">This month’s updates are all about sharing knowledge, so it’s only right we impart some of ours. Join us for our webinar series about elevating your OKRs (Objectives &amp; Key Results), from getting the basics right to maximizing efficiency. Here’s what’s coming up:<br><br></p>
+                          <p style="margin-top:0;margin-bottom:0;"><a href="https://build-links.coda.io/f/a/gheMe8IJ4sPLUXWHoyDJ4w~~/AAQRxQA~/RgRnlOGcP4QqAWh0dHBzOi8vZXZlbnRzLnpvb20udXMvZXYvQWxydVZYc2JCcDFpWmVXYVo1TDBGano0cDBiYVVYS3F6RTZyWkY4RkY5Q3RXdTF6WHNzWX5Bbm9tMDBMdFNxcjFhVUdJWmJxT3ZuWkotWk9SU1JIUFFPQVlSUm53WDNjd1A1cFN5Y3lOaGpkSy1IRVk0UEZpWnpoLVV2cmpVZ19jNFM2azdjeWhPV2c1aXc_bGlkPXFoMWtlZGFxMDhmeiZjYW52YXNfaWQ9JnV0bV9zb3VyY2U9QnJhemUmdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249W0VtYWlsXSAwMS0yNS0yMDI0IHwgV2hhdCdzIE5ldyBKYW4gMjAyNCZ1dG1fY29udGVudD1XA3NwY0IKZbGcXLJlG1gZsFIYbWF0dGhld0BidW5zZW5zdHVkaW8uY29tWAQAAAJM">Jan 30: Elevate your OKRs</a></p>
+                          <p style="margin-top:0;margin-bottom:0;"><a href="https://build-links.coda.io/f/a/aeXwJJtSaucGA-6qz3YbNA~~/AAQRxQA~/RgRnlOGcP4QqAWh0dHBzOi8vZXZlbnRzLnpvb20udXMvZXYvQXVuZC1Ta2ZDSWh3Q3JEU2s1UmFCTTBPNTJtb2d5UGk2QVkwWXdvSFZOUjBPR0FCS1ZHUX5BajI4NEdpc1JnbDIwYzduTm1jdEVFdU9IX1pEU2dlMFdGNkJmODh0YVFYNDN2cms5QThuMzluSGdPZGJscnFEbWlYREVRalFyME5zTE1rbF9BYVQzYUtfNVE_bGlkPXJkMWhxN3BvNmNmNiZjYW52YXNfaWQ9JnV0bV9zb3VyY2U9QnJhemUmdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249W0VtYWlsXSAwMS0yNS0yMDI0IHwgV2hhdCdzIE5ldyBKYW4gMjAyNCZ1dG1fY29udGVudD1XA3NwY0IKZbGcXLJlG1gZsFIYbWF0dGhld0BidW5zZW5zdHVkaW8uY29tWAQAAAJM">Feb 1: Build with Me: OKR docs</a><br><br></p>
+                          <p style="margin-top:0;margin-bottom:0;"><a href="https://build-links.coda.io/f/a/Xlbp7RxppIyx0iREfyPLBQ~~/AAQRxQA~/RgRnlOGcP0SjaHR0cHM6Ly9jb2RhLmlvL3Jlc291cmNlcy93ZWJpbmFycz9saWQ9bHU4eHJqdXJ5Nzh5JmNhbnZhc19pZD0mdXRtX3NvdXJjZT1CcmF6ZSZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1bRW1haWxdIDAxLTI1LTIwMjQgfCBXaGF0J3MgTmV3IEphbiAyMDI0JnV0bV9jb250ZW50PVcDc3BjQgplsZxcsmUbWBmwUhhtYXR0aGV3QGJ1bnNlbnN0dWRpby5jb21YBAAAAkw~">Head here for the complete schedule </a>and to RSVP for upcoming sessions.</p>
+                        </div>
+                      </td>
+                    </tr>
+                  </table>
+                </div>
+
+                <!--[if mso | IE]>
+</td></tr></table>
+<![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <!--[if mso | IE]>
+</td></tr></table>
+<![endif]-->
+
+      <!--[if mso | IE]>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="row-border-outlook" style="width:640px;" width="640"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;">
+<![endif]-->
+      <div class="row-border" style="background-color:#FDDCB0;margin:0px auto;max-width:640px;">
+        <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#FDDCB0;width:100%;">
+          <tbody>
+            <tr>
+              <td style="direction:ltr;font-size:0px;padding:0;text-align:center;vertical-align:top;">
+
+                <!--[if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td style="vertical-align:top;width:640px;">
+<![endif]-->
+                <div class="dys-column-per-100 outlook-group-fix" style="direction:ltr;display:inline-block;font-size:13px;text-align:left;vertical-align:top;width:100%;">
+                  <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;" width="100%">
+                    <tr>
+                      <td align="center" style="font-size:0px;padding:0;padding-top:0px;word-break:break-word;">
+                        <p style="border-top-color:#101010;border-top-style:solid;border-top-width:1px;font-size:1px;margin:0px auto;width:100%;"></p>
+
+                        <!--[if mso | IE]><table align='center' border='0' cellpadding='0' cellspacing='0' role='presentation' style='border-top-color:#101010;border-top-style:solid;border-top-width:1px;font-size:1px;margin:0px auto;width:640px;' width='640px'><tr><td style='height:0;line-height:0;'>&nbsp</td></tr></table><![endif]-->
+                      </td>
+                    </tr>
+                  </table>
+                </div>
+
+                <!--[if mso | IE]>
+</td></tr></table>
+<![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <!--[if mso | IE]>
+</td></tr></table>
+<![endif]-->
+
+      <!--[if mso | IE]>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="row-border-outlook" style="width:640px;" width="640"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;">
+<![endif]-->
+      <div class="row-border" style="background-color:#FFFFFF;margin:0px auto;max-width:640px;">
+        <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#FFFFFF;width:100%;">
+          <tbody>
+            <tr>
+              <td style="direction:ltr;font-size:0px;padding:20px 0;padding-bottom:0px;padding-left:0px;padding-right:0px;padding-top:20px;text-align:center;vertical-align:top;">
+
+                <!--[if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td style="vertical-align:top;width:640px;">
+<![endif]-->
+                <div class="dys-column-per-100 outlook-group-fix" style="direction:ltr;display:inline-block;font-size:13px;text-align:left;vertical-align:top;width:100%;">
+                  <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;" width="100%">
+                    <tr>
+                      <td align="left" style="font-size:0px;padding:10px 30px;padding-bottom:0;padding-top:0;word-break:break-word;">
+                        <h2 style="color:#101010;font-family:Helvetica, Arial, sans-serif;font-size:24px;font-weight:700;letter-spacing:-.02em;line-height:31px;margin:0;padding:0;text-align:left;">Procrastination corner.</h2>
+                      </td>
+                    </tr>
+                  </table>
+                </div>
+
+                <!--[if mso | IE]>
+</td></tr></table>
+<![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <!--[if mso | IE]>
+</td></tr></table>
+<![endif]-->
+
+      <!--[if mso | IE]>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="row-border-outlook" style="width:640px;" width="640"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;">
+<![endif]-->
+      <div class="row-border" style="background-color:#FFFFFF;margin:0px auto;max-width:640px;">
+        <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#FFFFFF;width:100%;">
+          <tbody>
+            <tr>
+              <td style="direction:ltr;font-size:0px;padding:20px 0;padding-bottom:30px;padding-left:0px;padding-right:20px;padding-top:20px;text-align:center;vertical-align:top;">
+
+                <!--[if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td style="vertical-align:middle;width:310px;">
+<![endif]-->
+                <div class="dys-column-per-50 outlook-group-fix" style="direction:ltr;display:inline-block;font-size:13px;text-align:left;vertical-align:middle;width:100%;">
+                  <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+                    <tbody>
+                      <tr>
+                        <td style="padding-left:0;padding-right:0;vertical-align:middle;">
+                          <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="" width="100%">
+                            <tr>
+                              <td align="center" class="mobile-img-4-3" style="font-size:0px;padding:0;word-break:break-word;">
+                                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:collapse;border-spacing:0px;">
+                                  <tbody>
+                                    <tr>
+                                      <td style="width:270px;"><img height="auto" src="https://cdn-web-assets.dyspatch.io/org_01gceye3h3mdhpetdrq2ygrd69/iBaUBuw1Tya7ZEpPjEUk_Procrastination%20corner.png" style="border:none;display:block;font-size:13px;height:auto;outline:none;text-decoration:none;width:100%;" width="270"></td>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                              </td>
+                            </tr>
+                          </table>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+
+                <!--[if mso | IE]>
+</td><td style="vertical-align:top;width:310px;">
+<![endif]-->
+                <div class="dys-column-per-50 outlook-group-fix" style="direction:ltr;display:inline-block;font-size:13px;text-align:left;vertical-align:top;width:100%;">
+                  <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+                    <tbody>
+                      <tr>
+                        <td style="padding-right:0;vertical-align:top;">
+                          <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="" width="100%">
+                            <tr>
+                              <td align="left" class="mobile-txt-padding" style="font-size:0px;padding:10px 30px;padding-right:0;word-break:break-word;">
+                                <div style="color:#101010;font-family:Helvetica, Arial, sans-serif;font-size:18px;font-weight:300;letter-spacing:-0.01em;line-height:27px;text-align:left;">
+                                  <p style="margin-top:0;margin-bottom:0;">Challenge yourself to please the security overlords in <a href="https://build-links.coda.io/f/a/jADUtOZnGqSaD-wPlgVBGA~~/AAQRxQA~/RgRnlOGcP0SgaHR0cHM6Ly9uZWFsLmZ1bi9wYXNzd29yZC1nYW1lLz9saWQ9dWJvaG81MTJsMml6JmNhbnZhc19pZD0mdXRtX3NvdXJjZT1CcmF6ZSZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1bRW1haWxdIDAxLTI1LTIwMjQgfCBXaGF0J3MgTmV3IEphbiAyMDI0JnV0bV9jb250ZW50PVcDc3BjQgplsZxcsmUbWBmwUhhtYXR0aGV3QGJ1bnNlbnN0dWRpby5jb21YBAAAAkw~">The Password Game</a>.</p>
+                                </div>
+                              </td>
+                            </tr>
+                          </table>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+
+                <!--[if mso | IE]>
+</td></tr></table>
+<![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <!--[if mso | IE]>
+</td></tr></table>
+<![endif]-->
+
+      <!-- FOR OUTLOOK row has background image of the background color as a rectangle -->
+
+      <!--[if mso | IE]>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="bradius-bottom-outlook" style="width:640px;" width="640"><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;">
+<![endif]-->
+      <div class="bradius-bottom" style="background-color:#101010;border-radius: 0px 0px 9px 9px;margin:0px auto;max-width:640px;">
+        <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#101010;border-radius: 0px 0px 9px 9px;width:100%;">
+          <tbody>
+            <tr>
+              <td style="direction:ltr;font-size:0px;padding:0px 0px 20px;text-align:center;vertical-align:top;">
+
+                <!--[if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="linear-outlook" style="width:640px;">
+<![endif]-->
+                <div class="dys-column-per-100 outlook-group-fix linear" style="direction:ltr;display:inline-block;font-size:0;line-height:0;text-align:left;width:100%;background:#101010;background-image:linear-gradient(#101010,#101010);color:#fff;">
+
+                  <!--[if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<![endif]-->
+
+                  <!--[if mso | IE]>
+<td style="vertical-align:top;width:213px;">
+<![endif]-->
+                  <div class="dys-column-per-33 outlook-group-fix" style="direction:ltr;display:inline-block;font-size:13px;text-align:left;vertical-align:top;width:33.333333%;">
+                    <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;" width="100%">
+                      <tr class="dys-desktop">
+                        <td align="left" style="font-size:0px;padding:20px 0px 0px 30px;word-break:break-word;">
+                          <div class="dys-desktop">
+                            <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:collapse;border-spacing:0px;">
+                              <tbody>
+                                <tr>
+                                  <td style="width:65px;"><a href="https://build-links.coda.io/f/a/NjIMcg9Et4zmBT-w-qdg7Q~~/AAQRxQA~/RgRnlOGcP0SRaHR0cHM6Ly9jb2RhLmlvLz9saWQ9cTI2cm50a3VmOXh4JmNhbnZhc19pZD0mdXRtX3NvdXJjZT1CcmF6ZSZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1bRW1haWxdIDAxLTI1LTIwMjQgfCBXaGF0J3MgTmV3IEphbiAyMDI0JnV0bV9jb250ZW50PVcDc3BjQgplsZxcsmUbWBmwUhhtYXR0aGV3QGJ1bnNlbnN0dWRpby5jb21YBAAAAkw~" style="color:#101010;text-decoration:underline;" target="_blank"><span style="color:#101010;text-decoration:underline;"><img alt="Coda" height="auto" src="https://cdn-web-assets.dyspatch.io/org_01gceye3h3mdhpetdrq2ygrd69/vHejWWTnOeOR1KwqI44A_0VgcNGsCTHeiqasFHQtI_Coda_Logotype-Black%402x.png" style="border:none;display:block;font-size:13px;height:auto;outline:none;text-decoration:none;width:100%;" width="65"></span></a></td>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr class="dys-mobile" style="display:none;">
+                        <td align="left" style="font-size:0px;padding:20px 0px 0px 30px;word-break:break-word;">
+                          <div>
+
+                            <!--[if !mso]-->
+                            <div class="dys-mobile" style="display:none;">
+                              <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:collapse;border-spacing:0px;">
+                                <tbody>
+                                  <tr>
+                                    <td style="width:21px;"><a href="https://build-links.coda.io/f/a/5JXhG4wO4xchLDD8Ow3UXw~~/AAQRxQA~/RgRnlOGcP0SRaHR0cHM6Ly9jb2RhLmlvLz9saWQ9M2wyMXIxZGNxZDY1JmNhbnZhc19pZD0mdXRtX3NvdXJjZT1CcmF6ZSZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1bRW1haWxdIDAxLTI1LTIwMjQgfCBXaGF0J3MgTmV3IEphbiAyMDI0JnV0bV9jb250ZW50PVcDc3BjQgplsZxcsmUbWBmwUhhtYXR0aGV3QGJ1bnNlbnN0dWRpby5jb21YBAAAAkw~" style="color:#101010;text-decoration:underline;" target="_blank"><span style="color:#101010;text-decoration:underline;"><img alt="Coda" height="auto" src="https://cdn-web-assets.dyspatch.io/org_01dvxt7mavmn4qe3rwy8cm2brf%2F336xmmT0QIiGIMA639Aw_codalogo.png" style="border:none;display:block;font-size:13px;height:auto;outline:none;text-decoration:none;width:100%;" width="21"></span></a></td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                            </div>
+
+                            <!--[endif]-->
+                          </div>
+                        </td>
+                      </tr>
+                    </table>
+                  </div>
+
+                  <!--[if mso | IE]>
+</td><td style="vertical-align:top;width:213px;">
+<![endif]-->
+                  <div class="dys-column-per-33 outlook-group-fix mobile-wider" style="direction:ltr;display:inline-block;font-size:13px;text-align:left;vertical-align:top;width:33.333333%;">
+                    <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;" width="100%">
+
+                      <!--[if gte mso 16]>
+ <style>
+ .keep-white {
+ mso-style-textfill-type:gradient;
+ mso-style-textfill-fill-gradientfill-stoplist:"0 \#FFFFFF 0 100000\,100000 \#FFFFFF 0 100000";
+ color:#000000 !important;
+ }
+ </style>
+<![endif]-->
+                      <tr>
+                        <td align="left" style="font-size:0px;padding:20px 0px 20px 30px;word-break:break-word;">
+                          <div style="color:#FFFFFF;font-family:Helvetica, Arial, sans-serif;font-size:12px;font-weight:400;letter-spacing:-0.01em;line-height:19px;text-align:left;">
+
+                            <!--[if !mso]>-->
+                            <div style="background:#101010; background-image:linear-gradient(#101010,#101010); color:#fff;display:inline;">
+                              <div class="gmail-blend-screen" style="display:inline">
+                                <div class="gmail-blend-difference" style="display:inline">
+
+                                  <!--<![endif]-->
+                                  <span class="keep-white" style="color:#ffffff;">Follow us on</span>
+
+                                  <!--[if !mso]>-->
+                                </div>
+                              </div>
+                            </div>
+
+                            <!--<![endif]-->
+                            <br>
+                            <span>
+ <a href="https://build-links.coda.io/f/a/PYO5HNcPtp_w8dwmJ85kOg~~/AAQRxQA~/RgRnlOGcP0ScaHR0cHM6Ly90d2l0dGVyLmNvbS9jb2RhX2hxP2xpZD00dmZjbzR2cGU3MXcmY2FudmFzX2lkPSZ1dG1fc291cmNlPUJyYXplJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPVtFbWFpbF0gMDEtMjUtMjAyNCB8IFdoYXQncyBOZXcgSmFuIDIwMjQmdXRtX2NvbnRlbnQ9VwNzcGNCCmWxnFyyZRtYGbBSGG1hdHRoZXdAYnVuc2Vuc3R1ZGlvLmNvbVgEAAACTA~~" style="text-decoration:none;color:#101010;"><span style="text-decoration:none;color:#101010;">
+ <img height="10" src="https://cdn-web-assets.dyspatch.io/org_01dvxt7mavmn4qe3rwy8cm2brf%2F0y6QZYrTx2OJCOjzBqQi_twitter.png" style="padding-right:4px;" width="10"> </span></a>
+
+                            <!--[if !mso]>-->
+                            <div style="background:#101010; background-image:linear-gradient(#101010,#101010); color:#fff;display:inline;">
+                              <div class="gmail-blend-screen" style="display:inline">
+                                <div class="gmail-blend-difference" style="display:inline">
+
+                                  <!--<![endif]-->
+                                  <span class="keep-white" style="color:#ffffff;"><a href="https://build-links.coda.io/f/a/ZnI9i9wrHCvnDxOH2jr_Bw~~/AAQRxQA~/RgRnlOGcP0ScaHR0cHM6Ly90d2l0dGVyLmNvbS9jb2RhX2hxP2xpZD14eWIzNHd4Y3RkcjAmY2FudmFzX2lkPSZ1dG1fc291cmNlPUJyYXplJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPVtFbWFpbF0gMDEtMjUtMjAyNCB8IFdoYXQncyBOZXcgSmFuIDIwMjQmdXRtX2NvbnRlbnQ9VwNzcGNCCmWxnFyyZRtYGbBSGG1hdHRoZXdAYnVuc2Vuc3R1ZGlvLmNvbVgEAAACTA~~" style="color:#ffffff; text-decoration:none;"><span style="color:#ffffff;text-decoration:none;">Twitter</span></a></span>
+
+                                  <!--[if !mso]>-->
+                                </div>
+                              </div>
+                            </div>
+
+                            <!--<![endif]-->
+                            </span>
+                            <br>
+                            <span>
+ <a href="https://build-links.coda.io/f/a/7TT0eVF7ZcU91bnKqVO9IA~~/AAQRxQA~/RgRnlOGcP0SpaHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2NvbXBhbnkvY29kYWluYz9saWQ9eG1uNHlmejV2eTAyJmNhbnZhc19pZD0mdXRtX3NvdXJjZT1CcmF6ZSZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1bRW1haWxdIDAxLTI1LTIwMjQgfCBXaGF0J3MgTmV3IEphbiAyMDI0JnV0bV9jb250ZW50PVcDc3BjQgplsZxcsmUbWBmwUhhtYXR0aGV3QGJ1bnNlbnN0dWRpby5jb21YBAAAAkw~" style="text-decoration:none;color:#101010;"><span style="text-decoration:none;color:#101010;">
+ <img height="10" src="https://cdn-web-assets.dyspatch.io/org_01dvxt7mavmn4qe3rwy8cm2brf%2FlleOeayLQXmQtufOXcrn_linkedin.png" style="padding-right:4px;" width="10"></span></a>
+
+                            <!--[if !mso]>-->
+                            <div style="background:#101010; background-image:linear-gradient(#101010,#101010); color:#fff;display:inline;">
+                              <div class="gmail-blend-screen" style="display:inline">
+                                <div class="gmail-blend-difference" style="display:inline">
+
+                                  <!--<![endif]-->
+                                  <span class="keep-white" style="color:#ffffff;"><a href="https://build-links.coda.io/f/a/mYcJe1jk6i9GDAMRYR2F1g~~/AAQRxQA~/RgRnlOGcP0SpaHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2NvbXBhbnkvY29kYWluYz9saWQ9bGFzcDV1bjhmOGZ1JmNhbnZhc19pZD0mdXRtX3NvdXJjZT1CcmF6ZSZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1bRW1haWxdIDAxLTI1LTIwMjQgfCBXaGF0J3MgTmV3IEphbiAyMDI0JnV0bV9jb250ZW50PVcDc3BjQgplsZxcsmUbWBmwUhhtYXR0aGV3QGJ1bnNlbnN0dWRpby5jb21YBAAAAkw~" style="color:#ffffff; text-decoration:none;"><span style="color:#ffffff;text-decoration:none;">LinkedIn</span></a></span>
+
+                                  <!--[if !mso]>-->
+                                </div>
+                              </div>
+                            </div>
+
+                            <!--<![endif]-->
+                            </span>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr class="dys-mobile" style="display:none;">
+                        <td align="left" style="font-size:0px;padding:0px 30px 40px 30px;word-break:break-word;">
+                          <div>
+
+                            <!--[if !mso]-->
+                            <div class="dys-mobile" style="display:none;">
+                              <div style="color:#FFFFFF;font-family:Helvetica, Arial, sans-serif;font-size:12px;font-weight:400;letter-spacing:-0.01em;line-height:18px;text-align:left;">
+
+                                <!--[if !mso]>-->
+                                <div style="background:#101010; background-image:linear-gradient(#101010,#101010); color:#fff;display:inline;">
+                                  <div class="gmail-blend-screen" style="display:inline">
+                                    <div class="gmail-blend-difference" style="display:inline">
+
+                                      <!--<![endif]-->
+                                      <span class="keep-white address" style="color:#ffffff;"><a href="https://build-links.coda.io/f/a/eGgH_x-iQXFDb-3XtfzCMg~~/AAQRxQA~/RgRnlOGcP0SYaHR0cHM6Ly9jb2RhLmlvL3dlbGNvbWU_bGlkPXJ5b3h0OXZ0ZGc3eiZjYW52YXNfaWQ9JnV0bV9zb3VyY2U9QnJhemUmdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249W0VtYWlsXSAwMS0yNS0yMDI0IHwgV2hhdCdzIE5ldyBKYW4gMjAyNCZ1dG1fY29udGVudD1XA3NwY0IKZbGcXLJlG1gZsFIYbWF0dGhld0BidW5zZW5zdHVkaW8uY29tWAQAAAJM" style="color:#ffffff; text-decoration:none;"><span style="color:#ffffff;text-decoration:none;">250 Montgomery St, Suite 1000, <br>
+ San Francisco, CA 94104</span></a>
+                                      </span>
+
+                                      <!--[if !mso]>-->
+                                    </div>
+                                  </div>
+                                </div>
+
+                                <!--<![endif]-->
+                              </div>
+                            </div>
+
+                            <!--[endif]-->
+                          </div>
+                        </td>
+                      </tr>
+                      <tr class="dys-mobile" style="display:none;">
+                        <td align="left" style="font-size:0px;padding:20px 0px 0px 30px;padding-bottom:25px;padding-top:5px;word-break:break-word;">
+                          <div>
+
+                            <!--[if !mso]-->
+                            <div class="dys-mobile" style="display:none;">
+                              <div style="color:#FFFFFF;font-family:Helvetica, Arial, sans-serif;font-size:12px;font-weight:400;letter-spacing:-1%;line-height:18px;text-align:left;">
+                                <a href="https://build-links.coda.io/f/a/7YeWozAZLfLah0UcJIkhAg~~/AAQRxQA~/RgRnlOGcP4R8AWh0dHBzOi8vY29kYS5pby9ub3RpZmljYXRpb25zL3Vuc3Vic2NyaWJlP2xpZD1vZjRlazBuZjlobmwmdG9rZW49ZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SmtaWFJoYVd4eklqcDdJblZ6WlhKSlpDSTZNalE1TnpFeU1Td2lkSGx3WlNJNkltbHVkR1Z5WTI5dFRtVjNjMFZ0WVdsc0luMHNJbWxoZENJNk1UY3dORGcwTmpFNE1Dd2laWGh3SWpveE56RXpORGcyTVRnd2ZRLkZOYjhzU0MtOHlBNFY5WWM5enZScUtHZXJQVkRWWjFkNmdvY1RjRzNuTHcmY2FudmFzX2lkPSZ1dG1fc291cmNlPUJyYXplJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPVtFbWFpbF0gMDEtMjUtMjAyNCB8IFdoYXQncyBOZXcgSmFuIDIwMjQmdXRtX2NvbnRlbnQ9VwNzcGNCCmWxnFyyZRtYGbBSGG1hdHRoZXdAYnVuc2Vuc3R1ZGlvLmNvbVgEAAACTA~~" style="color:#878787;text-decoration:none;"><span style="color:#878787;text-decoration:none;">Unsubscribe</span></a>
+                              </div>
+                            </div>
+
+                            <!--[endif]-->
+                          </div>
+                        </td>
+                      </tr>
+                    </table>
+                  </div>
+
+                  <!--[if mso | IE]>
+</td><td style="vertical-align:top;width:213px;">
+<![endif]-->
+                  <div class="dys-column-per-33 outlook-group-fix mobile-hide" style="direction:ltr;display:inline-block;font-size:13px;text-align:left;vertical-align:top;width:33.333333%;">
+                    <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;" width="100%">
+                      <tr class="dys-desktop">
+                        <td align="left" style="font-size:0px;padding:20px 30px 20px 0px;word-break:break-word;">
+                          <div class="dys-desktop">
+                            <div style="color:#FFFFFF;font-family:Helvetica, Arial, sans-serif;font-size:12px;font-weight:400;letter-spacing:-1%;line-height:18px;text-align:left;">
+
+                              <!--[if !mso]>-->
+                              <div style="background:#101010; background-image:linear-gradient(#101010,#101010); color:#fff;display:inline;">
+                                <div class="gmail-blend-screen" style="display:inline">
+                                  <div class="gmail-blend-difference" style="display:inline">
+
+                                    <!--<![endif]-->
+                                    <span class="keep-white" style="color:#ffffff;"><a href="https://build-links.coda.io/f/a/_8yVgDfki-ySbBXv3RbpGw~~/AAQRxQA~/RgRnlOGcP0SQaHR0cHM6Ly9jb2RhLmlvP2xpZD1qdGRwbHM5ODh6czEmY2FudmFzX2lkPSZ1dG1fc291cmNlPUJyYXplJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPVtFbWFpbF0gMDEtMjUtMjAyNCB8IFdoYXQncyBOZXcgSmFuIDIwMjQmdXRtX2NvbnRlbnQ9VwNzcGNCCmWxnFyyZRtYGbBSGG1hdHRoZXdAYnVuc2Vuc3R1ZGlvLmNvbVgEAAACTA~~" style="color:#ffffff; text-decoration:none;cursor: default;"><span style="color:#ffffff;text-decoration:none;">250 Montgomery St, Suite 1000, <br>
+ San Francisco, CA 94104</span></a>
+                                    </span>
+
+                                    <!--[if !mso]>-->
+                                  </div>
+                                </div>
+                              </div>
+
+                              <!--<![endif]-->
+                            </div>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr class="dys-desktop">
+                        <td align="left" style="font-size:0px;padding:20px 20px 20px 0px;padding-bottom:25px;padding-top:20px;word-break:break-word;">
+                          <div class="dys-desktop">
+                            <div style="color:#FFFFFF;font-family:Helvetica, Arial, sans-serif;font-size:12px;font-weight:400;letter-spacing:-1%;line-height:18px;text-align:left;">
+                              <a href="#" style="color:#878787;text-decoration:none;"><span style="color:#878787;text-decoration:none;">Unsubscribe</span></a>
+                            </div>
+                          </div>
+                        </td>
+                      </tr>
+                    </table>
+                  </div>
+
+                  <!--[if mso | IE]>
+</td>
+<![endif]-->
+
+                  <!--[if mso | IE]>
+</tr>
+</table>
+<![endif]-->
+                </div>
+
+                <!--[if mso | IE]>
+</td></tr></table>
+<![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <!--[if mso | IE]>
+</td></tr></table>
+<![endif]-->
+    </div>
+  </body>
+</html>
